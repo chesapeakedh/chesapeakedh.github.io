@@ -3,7 +3,7 @@ layout: default
 title: Chesapeake Digital Humanities Consortium 
 ---
 
-# Vision
+# Purpose
 The Chesapeake Digital Humanities Consortium (CDHC) is an association of people and institutions committed to the cooperative development of teaching, learning, research, and community partnerships in the digital humanities. Because place and space shape collaboration, CDHC is focused on supporting digital humanities in the D.C, Virginia, and Maryland region. 
 
 CDHC has three guiding goals:
