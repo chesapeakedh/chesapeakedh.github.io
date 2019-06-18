@@ -21,13 +21,13 @@ We can also be found on the #chesapeakedh channel on the [Digital Humanities Sla
 * Steering Chair - Mackenzie Brooks, Associate Professor & Digital Humanities Librarian, Washington and Lee University
 * Vice-chair - Corinne Guimont, Digital Publishing Specialist, Virginia Tech
 * Communication chair - Brandon Walsh, Head of Student Programs, Scholars' Lab, UVA
-* Membership & Outreach chair - *empty*
-* Annual Program chair - *empty*
+* Membership & Outreach chair - *available*
+* Annual Program chair - *available*
 
 # History
 With the help of funding from the Associated Colleges of the South and University of Virginia Scholars’ Lab, the Consortium [formed in March 2018](http://symposium.scholarslab.org/) to encourage collaboration across liberal arts colleges and Carnegie classification Research I universities. The scope quickly expanded to focus on people, rather than institutions, in the Washington D.C, Maryland, and Virginia region. 
 
-On May 29, 2019, a [group met at the University of Richmond](https://github.com/nolauren/workshops/blob/master/cheasepeake.md) to solidify the consortium. 
+On May 29, 2019, a [group met at the University of Richmond](https://github.com/nolauren/workshops/blob/master/cheasepeake.md) to solidify the consortium. At this meeting, we established a governance structure and finalized the statement of purpose. We hope to hold an annual conference in 2020. 
 
 # Members
 
