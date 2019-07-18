@@ -12,7 +12,9 @@ CDHC has three guiding goals:
 * Fostering sharing, collaboration, and innovation among people, places, and institutions.
 
 # Membership
-Joining CDHC is simple.  Just sign-up for our [email list](https://groups.google.com/forum/#!forum/chesapeakedh). 
+Joining CDHC is simple. Fill out our [membership form](https://docs.google.com/forms/d/e/1FAIpQLSfOUCgsA4eVrXws38-OQ9gmDj6qnazKx0Lnpu409OkMzO6JGA/viewform?usp=sf_link). You will have the option to make your information available in our public membership directory to facilitate collaboration amongst our members. 
+
+Want to stay up to date on what's happening at other institutions? Sign-up for our [email list](https://groups.google.com/forum/#!forum/chesapeakedh).
 
 We can also be found on the #chesapeakedh channel on the [Digital Humanities Slack](http://tinyurl.com/DHslack) or on Twitter [@chesapeakedh](http://twitter.com/chesapeakedh).
 
