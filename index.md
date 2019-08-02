@@ -11,12 +11,15 @@ CDHC has three guiding goals:
 * Building accessible, diverse, and equitable digital humanities communities. 
 * Fostering sharing, collaboration, and innovation among people, places, and institutions.
 
-# Membership
+# Join
 Joining CDHC is simple, just fill out our [membership form](https://docs.google.com/forms/d/e/1FAIpQLSfOUCgsA4eVrXws38-OQ9gmDj6qnazKx0Lnpu409OkMzO6JGA/viewform?usp=sf_link). You will have the option to make your information available in a public membership directory to facilitate collaboration amongst our members. 
 
 Want to stay up to date on what's happening at other institutions? Sign-up for our [email list](https://groups.google.com/forum/#!forum/chesapeakedh).
 
 We can also be found on the #chesapeakedh channel on the [Digital Humanities Slack](http://tinyurl.com/DHslack) or on Twitter [@chesapeakedh](http://twitter.com/chesapeakedh).
+
+# Members
+View our public [membership roster](https://docs.google.com/spreadsheets/d/1GChEHwmtmvwgv3E16cH7URkSdhd3IIlODzAuoHaWIwQ/edit?usp=sharing) to learn more about our members and find collaborators. 
 
 
 # Governance
@@ -31,8 +34,6 @@ With the help of funding from the Associated Colleges of the South, Washington a
 
 On May 29, 2019, a [group met at the University of Richmond](https://github.com/nolauren/workshops/blob/master/cheasepeake.md) to solidify the consortium. At this meeting, we established a governance structure and finalized the statement of purpose. We hope to hold an annual conference in 2020. 
 
-# Members
-[Membership Roster](https://docs.google.com/spreadsheets/d/1GChEHwmtmvwgv3E16cH7URkSdhd3IIlODzAuoHaWIwQ/edit?usp=sharing)
 
 # Credits
 Header image: 
