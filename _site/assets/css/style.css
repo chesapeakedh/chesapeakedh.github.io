@@ -331,3 +331,5 @@ body { font-family: 'Droid Serif'; color: #3b4245; }
 #skip-to-content { height: 1px; width: 1px; position: absolute; overflow: hidden; top: -10px; }
 
 .second-footer { background-image: url("/assets/pride.jpg"); background-color: #FCF7F4; background-size: contain; background-repeat: no-repeat; height: 120px; width: 100%; }
+
+#page-title { color: white; }

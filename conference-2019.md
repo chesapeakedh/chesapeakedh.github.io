@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chesapeake Digital Humanities Consortium
-permalink: /conference
+permalink: /conference-2019
 ---
 
 # Spring 2020 Symposium
