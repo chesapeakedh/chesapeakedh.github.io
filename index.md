@@ -26,7 +26,7 @@ View our public [membership roster](https://docs.google.com/spreadsheets/d/1GChE
 
 Save the date! The Chesapeake Digital Humanities Consortium will be holding its first symposium on Friday, February 21st, 2020. The symposium will be hosted by William & Mary with Catherine Knight Steele keynoting.
 
-Watch for a [CFP](/conference-2019) coming later this month.
+Watch for a [CFP](/conference-2020) coming later this month.
 
 # Governance
 * Steering Chair - Mackenzie Brooks, Associate Professor & Digital Humanities Librarian, Washington and Lee University
