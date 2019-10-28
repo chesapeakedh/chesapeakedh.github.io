@@ -33,7 +33,11 @@ Check out the [CFP](/conference-2020) for more details about how to apply! Submi
 * Vice-chair - Corinne Guimont, Digital Publishing Specialist, Virginia Tech
 * Communication chair - Brandon Walsh, Head of Student Programs, Scholars' Lab, UVA
 * Membership & Outreach chair - Alexandra Macdonald - PhD Student, William & Mary
-* Annual Program chair - *available*
+* Annual Program committee:
+  * Currently chaired by Corinne Guimont
+  * Jim Ambuske, Mount Vernon
+  * Lindsay Chervinsky, The White House Historical Association
+  * Mike Davis, Hampton University
 
 # History
 With the help of funding from the Associated Colleges of the South, Washington and Lee University, and University of Virginia Scholars’ Lab, the Consortium [formed in March 2018](http://symposium.scholarslab.org/) to encourage collaboration across liberal arts colleges and Carnegie classification Research I universities. The scope quickly expanded to focus on people, rather than institutions, in the Washington D.C, Maryland, and Virginia region.
