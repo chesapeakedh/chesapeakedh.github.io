@@ -18,16 +18,10 @@ We encourage participation from the broader digital humanities communities, incl
 
 All proposal abstracts should address 1) the research/pedagogical significance of the project 2) the platform or tool used in the project 3) any technological requirements for the presentation.
 
-* *Individual Presentations*. Please provide an abstract of 250 words and brief bio (75 words). Individual presentations may include, but are not limited to:
-  * Digital Methodology
-  * Digital Pedagogy
-  * Digital Cultural Heritage Preservation
-  * Digital Tool Creation
-  * Digital Research Projects
-  * Community-Based Collaborative Digital Initiatives
+* *Individual Presentations*. Please provide an abstract of 250 words and brief bio (75 words).
 * *Panels*. Panels feature individual presentations organized around a common topic. Please provide a panel rationale of no more than 300 words, with individual presentation abstracts (150-300 words) for up to 5 participants. Include titles and institutional affiliations for each participant. (note: students should specify their institutional status).
 * *Digital Posters*. Posters may present work on any relevant topic in any stage of development. Poster presentations are intended to be interactive, providing the opportunity to exchange ideas one-on-one with attendees. Please provide an abstract of 250 words.
-* *Roundtables*. Roundtables feature short presentations by panelists around a common theme or idea followed by discussion with the audience. Please provide a rationale of no more than 300 words, accompanied by a list of 4-5 participants (including title and institutional affiliation).
+* *Roundtable Discussions*. Roundtables feature short presentations by panelists around a common theme or idea followed by discussion with the audience. Please provide a rationale of no more than 300 words, accompanied by a list of 4-5 participants (including title and institutional affiliation).
 * *Lightning Round*. Please submit a 100-word description on a topic you would like to discuss for 5 minutes.
 
 If you have any questions, please contact chesapeakedhconsortium@gmail.com.
