@@ -12,7 +12,7 @@ We encourage submissions exploring new developments in digital humanities-based 
 
 ## Proposal Submissions
 
-We encourage participation from the broader digital humanities communities, including undergraduate and graduate students, college and university faculty, independent scholars, community members, librarians, archivists, and technologists. Please submit proposals online through [our form](https://docs.google.com/forms/d/1b4mBINaEVBn6LAh1U7C5Irq9lvmYbyGKqBqNiMkwn1k/edit) by January 6, 2020. Applicants will be notified with a decision by January 15th.
+We encourage participation from the broader digital humanities communities, including undergraduate and graduate students, college and university faculty, independent scholars, community members, librarians, archivists, and technologists. Please submit proposals online through [our form](https://docs.google.com/forms/d/e/1FAIpQLSdNfv5K3XxAJ3sd_YC72b8PWe0TM2lNcFWvhqygaaI6Mxxzuw/viewform) by January 6, 2020. Applicants will be notified with a decision by January 15th.
 
 ## Proposal Types
 
