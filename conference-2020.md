@@ -6,7 +6,7 @@ permalink: /conference-2020
 
 ## Call for Proposals: Chesapeake Digital Humanities Consortium
 
-The Chesapeake Digital Humanities Consortium (CDHC) invites submissions for its first annual conference to be held at the College of William & Mary on February 21, 2020. We are excited to have [Catherine Knight Steele](https://www.catherineknightsteele.com/) keynoting. 
+The Chesapeake Digital Humanities Consortium (CDHC) invites submissions for its first annual conference to be held at the College of William & Mary on February 21, 2020. We are excited to have [Catherine Knight Steele](https://www.catherineknightsteele.com/) keynoting. There will be no conference registration fee. 
 
 ## Proposal Submissions
 
