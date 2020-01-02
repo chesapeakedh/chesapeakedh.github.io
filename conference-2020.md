@@ -4,6 +4,9 @@ title: Chesapeake Digital Humanities Consortium
 permalink: /conference-2020
 ---
 
+## Registration
+If you are planning to attend the conference, please [register](https://docs.google.com/forms/d/e/1FAIpQLSci5KCHrUNm0VD60beXEAPePfbJnbcBBy_fiUS19HTmGVtQUA/viewform?usp=sf_link). We'll have logistical information available soon, but attendance info will help us plan. 
+
 ## Call for Proposals: Chesapeake Digital Humanities Consortium
 
 The Chesapeake Digital Humanities Consortium (CDHC) invites submissions for its first annual conference to be held at the College of William & Mary on February 21, 2020. We are excited to have [Catherine Knight Steele](https://www.catherineknightsteele.com/) keynoting. There will be no conference registration fee. 
