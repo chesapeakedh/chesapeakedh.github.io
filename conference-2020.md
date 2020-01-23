@@ -5,9 +5,51 @@ permalink: /conference-2020
 ---
 
 ## Registration
-If you are planning to attend the conference, please [register](https://docs.google.com/forms/d/e/1FAIpQLSci5KCHrUNm0VD60beXEAPePfbJnbcBBy_fiUS19HTmGVtQUA/viewform?usp=sf_link). We'll have logistical information available soon, but attendance info will help us plan. 
+If you are planning to attend the conference, please [register](https://docs.google.com/forms/d/e/1FAIpQLSci5KCHrUNm0VD60beXEAPePfbJnbcBBy_fiUS19HTmGVtQUA/viewform?usp=sf_link). Registration will close February 10, 2020. 
 
-## Call for Proposals: Chesapeake Digital Humanities Consortium
+## Logistics 
+
+### Location
+
+The CDHC Conference will be held in Swem Library at the College of William and Mary. The address is 400 Landrum Dr., Williamsburg, VA. Directions and maps are available on the [Swem Library website](https://libraries.wm.edu/about/directions-parking). 
+
+### Parking
+
+Parking passes will be available, stay tuned! 
+
+### Hotel
+
+We will be reserving a small block of hotel rooms. Let us know if you're interested in that option. Otherwise, Williamsburg has a large number of hotels to choose from, but please reach out with any questions. 
+
+## Schedule
+
+A detailed program can be found on this [Google document](https://docs.google.com/document/d/1d0IbHkbpJiqeaUWeD1Akxcg5vtTTFHMhxdm5LTIELvM/edit?usp=sharing). 
+
+For those in town on Thursday, Siva Vaidhyanathan (UVa) will be presenting on "The Operating System of Our Lives: How Google, Facebook, Amazon, Apple, and Microsoft Are Battling Each Other for Control of Our Bodies." The talk will be at 5pm in the Ford Classroom in Swem Library at W&M. 
+
+|Time|Event|
+|---|---|
+|8:30am|Registration and Coffee|
+|9:10am|Introductions and Welcome|
+|9:30-10:30am|Block 1 presentations|
+|10:45-11:45am|Block 2 presentations|
+|12:00-1:00pm|Lunch and Birds of a Feather time|
+|1:00-2:00pm|Keynote: Catherine Knight Steele|
+|2:15-3:30pm|Block 3 presentations|
+|3:45-4:30pm|Block 4 presentations|
+|4:45-5:30pm|Lighting Talks + Digital Posters|
+|5:45pm-|Reception at Omohundro Institute|
+
+## Code of Conduct 
+
+The Chesapeake DH Consortium seeks to provide a welcoming, professionally engaging, fun, and safe experience and ongoing community for everyone, both in person and online. We do not tolerate harassment in any form. Discriminatory language and imagery (including sexual) is not appropriate for any event venue, including talks, or any community channel such as the slack channel or mailing list.
+
+Harassment is understood as any behavior that threatens or demeans another person or group, or produces an unsafe environment. It includes offensive verbal comments or non-verbal expressions related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age, religious or political beliefs; sexual or discriminatory images in public spaces (including online); deliberate intimidation, stalking, following, harassing photography or recording; sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+
+Concerns about violations of this code of conduct can be directed to the Chesapeake DH Consortium governing body members.
+
+
+## Call for Proposals
 
 The Chesapeake Digital Humanities Consortium (CDHC) invites submissions for its first annual conference to be held at the College of William & Mary on February 21, 2020. We are excited to have [Catherine Knight Steele](https://www.catherineknightsteele.com/) keynoting. There will be no conference registration fee. 
 
