@@ -11,7 +11,7 @@ If you are planning to attend the conference, please [register](https://docs.goo
 
 ### Location
 
-The CDHC Conference will be held in Swem Library at the College of William and Mary. The address is 400 Landrum Dr., Williamsburg, VA. Directions and maps are available on the [Swem Library website](https://libraries.wm.edu/about/directions-parking). 
+The CDHC Conference will be held in Swem Library at the College of William and Mary. The address is 400 Landrum Dr., Williamsburg, VA. Directions and maps are available on the [Swem Library website](https://libraries.wm.edu/about/directions-parking).
 
 ### Parking
 
@@ -19,7 +19,7 @@ Parking passes will be available, stay tuned!
 
 ### Hotel
 
-We will be reserving a small block of hotel rooms. Let us know if you're interested in that option. Otherwise, Williamsburg has a large number of hotels to choose from, but please reach out with any questions. 
+We have a reserved a block of rooms at the Colonial Williamsburg Griffin Hotel for Thursday night at $149/night + fees. To make your reservation, call 1-800-HISTORY, ask for a supervisor, and give the group name **Chesapeake DH**. Check in will start at 4pm at the Orrell Kitchen at 302 Francis St. E, near the Williamsburg Inn. They should be able to extend the conference rate for additional nights, should you choose. 
 
 ## Schedule
 
@@ -38,7 +38,7 @@ For those in town on Thursday, Siva Vaidhyanathan (UVa) will be presenting on "T
 |2:15-3:30pm|Block 3 presentations|
 |3:45-4:30pm|Block 4 presentations|
 |4:45-5:30pm|Lighting Talks + Digital Posters|
-|5:45pm-|Reception at Omohundro Institute|
+|5:45pm-|Reception in Wren Hall. Sponsored by the Omohundro Institute|
 
 ## Code of Conduct 
 
