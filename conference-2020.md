@@ -19,7 +19,7 @@ Parking passes will be available, stay tuned!
 
 ### Hotel
 
-We have a reserved a block of rooms at the Colonial Williamsburg Griffin Hotel for Thursday night at $149/night + fees. To make your reservation, call 1-800-HISTORY, ask for a supervisor, and give the group name **Chesapeake DH**. Check in will start at 4pm at the Orrell Kitchen at 302 Francis St. E, near the Williamsburg Inn. They should be able to extend the conference rate for additional nights, should you choose. 
+We have a reserved a block of rooms at the Colonial Williamsburg Griffin Hotel for Thursday night at $149/night + fees. To make your reservation, call 1-800-HISTORY, ask for a supervisor, and give the group name **Chesapeake DH**. Reservations can also be make at this [link](https://book.passkey.com/go/5b5aa2d6). Check in will start at 4pm at the Orrell Kitchen at 302 Francis St. E, near the Williamsburg Inn. They should be able to extend the conference rate for additional nights, should you choose. 
 
 ## Schedule
 
