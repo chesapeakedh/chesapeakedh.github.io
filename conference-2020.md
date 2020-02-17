@@ -4,12 +4,17 @@ title: Chesapeake Digital Humanities Consortium
 permalink: /conference-2020
 ---
 
+## Conference Info
+
+The Twitter hashtag for the conference will be [#CDHC20]().
+
+Shared notes can be kept in this Google Drive folder: [http://bit.ly/cdhc20](http://bit.ly/cdhc20).
 
 ## Logistics 
 
 ### Location
 
-The CDHC Conference will be held in Swem Library at the College of William and Mary. The address is 400 Landrum Dr., Williamsburg, VA. Directions and maps are available on the [Swem Library website](https://libraries.wm.edu/about/directions-parking).
+The CDHC Conference will be held in Swem Library (400 Landrum Dr.) and Morton Hall (100 Ukrop Way) at the College of William and Mary. Directions and maps are available on the [Swem Library website](https://libraries.wm.edu/about/directions-parking) as well as [floor plans](https://libraries.wm.edu/about/floor-plans).
 
 ### Parking
 
@@ -27,7 +32,7 @@ For those in town on Thursday, Siva Vaidhyanathan (UVa) will be presenting on "T
 
 |Time|Event|
 |---|---|
-|8:30am|Registration and Coffee|
+|8:30am|Registration and Coffee in Swem Library|
 |9:10am|Introductions and Welcome|
 |9:30-10:30am|Block 1 presentations|
 |10:45-11:45am|Block 2 presentations|
