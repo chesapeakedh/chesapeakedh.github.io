@@ -4,8 +4,6 @@ title: Chesapeake Digital Humanities Consortium
 permalink: /conference-2020
 ---
 
-## Registration
-If you are planning to attend the conference, please [register](https://docs.google.com/forms/d/e/1FAIpQLSci5KCHrUNm0VD60beXEAPePfbJnbcBBy_fiUS19HTmGVtQUA/viewform?usp=sf_link). Registration will close February 10, 2020. 
 
 ## Logistics 
 
@@ -15,7 +13,7 @@ The CDHC Conference will be held in Swem Library at the College of William and M
 
 ### Parking
 
-Parking passes will be available, stay tuned! 
+We have reserved 25 parking slots near Swem Library for attendees: 10 spaces in front of Morton Hall (656 Jamestown Rd.) and 15 spaces in the basement of the parking deck (201 Ukrop Way). If those spaces are full, you will need to obtain a parking pass to park in the deck at 201 Ukrop Way. Parking passes are $6/day and can be obtained from the Parking Services office also located at 201 Ukkrop Way. [More info on parking from W&M](https://www.wm.edu/offices/auxiliary/parkingandtransportation/visitors/parking/index.php). 
 
 ### Hotel
 
@@ -68,3 +66,6 @@ All proposal abstracts should address 1) the research/pedagogical significance o
 * *Lightning Round*. Please submit a 100-word description on a topic you would like to discuss for 5 minutes.
 
 If you have any questions, please contact chesapeakedhconsortium@gmail.com.
+
+## Registration
+Registration is now closed.
