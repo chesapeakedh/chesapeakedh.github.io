@@ -6,7 +6,7 @@ permalink: /conference-2020
 
 ## Conference Info
 
-The Twitter hashtag for the conference will be [#CDHC20]().
+The Twitter hashtag for the conference will be [#CDHC20](twitter.com/hashtag/cdhc20).
 
 Shared notes can be kept in this Google Drive folder: [http://bit.ly/cdhc20](http://bit.ly/cdhc20).
 
@@ -14,11 +14,11 @@ Shared notes can be kept in this Google Drive folder: [http://bit.ly/cdhc20](htt
 
 ### Location
 
-The CDHC Conference will be held in Swem Library (400 Landrum Dr.) and Morton Hall (100 Ukrop Way) at the College of William and Mary. Directions and maps are available on the [Swem Library website](https://libraries.wm.edu/about/directions-parking) as well as [floor plans](https://libraries.wm.edu/about/floor-plans).
+The CDHC Conference will be held in Swem Library (400 Landrum Dr.) and Morton Hall (100 Ukrop Way) at the College of William and Mary. Directions and maps are available on the [Swem Library website](https://libraries.wm.edu/about/directions-parking) as well as [floor plans](https://libraries.wm.edu/about/floor-plans) and [accessibility information](https://libraries.wm.edu/services/accessibility-services/access-swem). 
 
 ### Parking
 
-We have reserved 25 parking slots near Swem Library for attendees: 10 spaces in front of Morton Hall (656 Jamestown Rd.) and 15 spaces in the basement of the parking deck (201 Ukrop Way). If those spaces are full, you will need to obtain a parking pass to park in the deck at 201 Ukrop Way. Parking passes are $6/day and can be obtained from the Parking Services office also located at 201 Ukkrop Way. [More info on parking from W&M](https://www.wm.edu/offices/auxiliary/parkingandtransportation/visitors/parking/index.php). 
+We have reserved 25 parking slots near Swem Library for attendees: 10 spaces in front of Morton Hall (656 Jamestown Rd.) and 15 spaces in the basement of the parking deck (201 Ukrop Way). If those spaces are full, you will need to obtain a parking pass to park in the deck at 201 Ukrop Way. Parking passes are $6/day and can be obtained from the Parking Services office also located at 201 Ukrop Way. [More info on parking from W&M](https://www.wm.edu/offices/auxiliary/parkingandtransportation/visitors/parking/index.php). 
 
 ### Hotel
 
