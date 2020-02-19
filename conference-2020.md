@@ -74,3 +74,9 @@ If you have any questions, please contact chesapeakedhconsortium@gmail.com.
 
 ## Registration
 Registration is now closed.
+
+## Institutional Support
+
+We are very grateful to the College of William and Mary, the Omohundro Institute, Washington and Lee University, and Virginia Tech for their support of this event. 
+
+<img id="logo" src='/assets/wm.jpg'><img id="logo" src='/assets/omohundro.png'><img id="logo" src='/assets/wlu.jpg'><img id="logo" src='/assets/vtech.png'>

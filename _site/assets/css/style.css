@@ -335,3 +335,5 @@ body { font-family: 'Droid Serif'; color: #3b4245; }
 #page-title { color: white; }
 
 .main-content h2 { color: black; }
+
+#logo { max-width: 300px; padding: 50px; }
