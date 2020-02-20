@@ -4,6 +4,12 @@ title: Chesapeake Digital Humanities Consortium
 permalink: /conference-2020
 ---
 
+## Weather Change of Plans! 
+W&M has issued a weather alert and due to predicted weather conditions campus will be closing Thursday at 3:30pm until noon on Friday. We will have to cancel morning sessions for tomorrow's conference. 
+
+We totally understand if you decide to stay home. If you are presenting, please let us know at chesapeakedhconsortium [at] gmail.com if you plan to attend or not. We will attempt to reschedule remaining participants into the afternoon. 
+
+
 ## Conference Info
 
 The Twitter hashtag for the conference will be [#CDHC20](twitter.com/hashtag/cdhc20).
