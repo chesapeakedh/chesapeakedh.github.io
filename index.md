@@ -26,19 +26,19 @@ View our public [membership roster](https://docs.google.com/spreadsheets/d/1GChE
 
 Save the date! The Chesapeake Digital Humanities Consortium will be holding its first symposium on Friday, February 21st, 2020. The symposium will be hosted by William & Mary with Catherine Knight Steele keynoting.
 
-Check out the [CFP](/conference-2020) for more details about how to apply! Submissions due by **January 6th**.
+Check out our 2020 [CFP](/conference-2020) for more details on last year's events! 
 
 # Governance
-* Steering Chair - Mackenzie Brooks, Associate Professor & Digital Humanities Librarian, Washington and Lee University
-* Vice-chair - Corinne Guimont, Digital Publishing Specialist, Virginia Tech
-* Communication chair - Brandon Walsh, Head of Student Programs, Scholars' Lab, UVA
-* Membership & Outreach chair - Alexandra Macdonald - PhD Student, William & Mary
+* Steering Chair - Corinne Guimont, Digital Scholarship Coordinator, Virginia Tech
+* Vice-chair - Michael Davis, Associate Professor of History, Hampton University
+* Communication chair - Alex Kinnaman, Digital Preservation Coordinator, Virginia Tech
+* Membership & Outreach chair - Shayna Maskell, Associate Professor in the School of Integrative Studies, George Mason University
 * Annual Program committee:
-  * Jim Ambuske, Mount Vernon, chair
-  * Lindsay Chervinsky, The White House Historical Association
-  * Mike Davis, Hampton University
-  * Corinne Guimont, steering liaison
-  * Khanh Vo, W&M graduate student
+  * Shayna Maskell - steering liaison
+  * Sherri Brown - University of Virginia
+  * Tonya-Marie Howe - Marymount University
+  * Luke Menzies, Virginia Tech
+  * Laura Martoff Miller - University of Virginia
 
 # History
 With the help of funding from the Associated Colleges of the South, Washington and Lee University, and University of Virginia Scholars’ Lab, the Consortium [formed in March 2018](http://symposium.scholarslab.org/) to encourage collaboration across liberal arts colleges and Carnegie classification Research I universities. The scope quickly expanded to focus on people, rather than institutions, in the Washington D.C, Maryland, and Virginia region.
