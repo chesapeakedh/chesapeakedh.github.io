@@ -34,7 +34,7 @@ Check out our 2020 [CFP](/conference-2020) for more details on last year's event
 * Communication chair - Alex Kinnaman, Digital Preservation Coordinator, Virginia Tech
 * Membership & Outreach chair - Shayna Maskell, Associate Professor in the School of Integrative Studies, George Mason University
 * Annual Program committee:
-  * Shayna Maskell - steering liaison
+  * Shayna Maskell [steering liaison] - George Mason University
   * Sherri Brown - University of Virginia
   * Tonya-Marie Howe - Marymount University
   * Luke Menzies, Virginia Tech
