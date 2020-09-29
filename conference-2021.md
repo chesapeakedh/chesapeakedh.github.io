@@ -20,7 +20,7 @@ The Twitter hashtag for the conference will be [#CDHC2021](https://twitter.com/h
 
 Follow the CDHC on Twitter at [@chesapeakeDH](https://twitter.com/chesapeakedh).
 
-Join us on Slack at @chesapeakeDH on the DH Slack channel.
+Join us on our Slack channel #chesapeakeDH on the [DH Slack workspace](digitalhumanities.slack.com).
 
 
 ## Call for Proposals
@@ -41,14 +41,14 @@ We encourage participation from the broader digital humanities communities, incl
 
 **Please submit proposals online through our [form](https://forms.gle/yo8ACeTgb93pX1gy5) by 11:59pm ET on November 31, 2020**. 
 
-Applicants will be notified with a decision by December 31st, 2020.
+All proposals will be reviewed by the Steering Committee and the Annual Program Committee. Applicants will be notified with a decision by December 31st, 2020.
 
 ### Proposal Types and Lengths
 All proposal abstracts should address 1) the research/pedagogical significance of the project, and 2) the platform or tool used in the project.
 
-- **20-minute Individual Presentations**: Please provide an abstract of 250 words and a brief bio (75 words).
+- **20-minute Individual Presentation**: Please provide an abstract of 250 words and a brief bio (75 words).
 
-- **1-hour Panels**: Panels feature individual presentations organized around a common topic. Please provide a panel rationale of no more than 300 words, with individual presentation abstracts (150-300 words) for up to five participants. Include titles and institutional affiliations for each participant. Only one person should submit abstracts on the panel’s behalf. (note: students should specify their institutional status).
+- **1-hour Panel**: Panels feature individual presentations organized around a common topic. Please provide a panel rationale of no more than 300 words, with individual presentation abstracts (150-300 words) for up to five participants. Include titles and institutional affiliations for each participant. Only one person should submit abstracts on the panel’s behalf. (note: students should specify their institutional status).
 
 - **5-minute Lightning Round**: Please submit a 100-word description on a topic you would like to discuss.
 
