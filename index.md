@@ -24,9 +24,9 @@ View our public [membership roster](https://docs.google.com/spreadsheets/d/1GChE
 
 # Conference
 
-Save the date! The Chesapeake Digital Humanities Consortium will be holding its first symposium on Friday, February 21st, 2020. The symposium will be hosted by William & Mary with Catherine Knight Steele keynoting.
+Save the date! The Chesapeake Digital Humanities Consortium will be holding its second annual conference **Social Justice and Online Activism.** This year's conference will be held virtually on Zoom in two half-day sessions on February 25th and 26th. More details on our Keynote are forthcoming.
 
-Check out our 2020 [CFP](/conference-2020) for more details on last year's events! 
+**Check out our 2021 [Call for Proposals](https://chesapeakedh.github.io/conference-2021) for more details!** 
 
 # Governance
 * Steering Chair - Corinne Guimont, Digital Scholarship Coordinator, Virginia Tech
@@ -34,7 +34,7 @@ Check out our 2020 [CFP](/conference-2020) for more details on last year's event
 * Communication chair - Alex Kinnaman, Digital Preservation Coordinator, Virginia Tech
 * Membership & Outreach chair - Shayna Maskell, Associate Professor in the School of Integrative Studies, George Mason University
 * Annual Program committee:
-  * Shayna Maskell [steering liaison] - George Mason University
+  * Shayna Maskell, steering liaison - George Mason University
   * Sherri Brown - University of Virginia
   * Tonya-Marie Howe - Marymount University
   * Luke Menzies, Virginia Tech
@@ -43,7 +43,7 @@ Check out our 2020 [CFP](/conference-2020) for more details on last year's event
 # History
 With the help of funding from the Associated Colleges of the South, Washington and Lee University, and University of Virginia Scholars’ Lab, the Consortium [formed in March 2018](http://symposium.scholarslab.org/) to encourage collaboration across liberal arts colleges and Carnegie classification Research I universities. The scope quickly expanded to focus on people, rather than institutions, in the Washington D.C, Maryland, and Virginia region.
 
-On May 29, 2019, a [group met at the University of Richmond](https://github.com/nolauren/workshops/blob/master/cheasepeake.md) to solidify the consortium. At this meeting, we established a governance structure and finalized the statement of purpose. We hope to hold an annual conference in 2020.
+On May 29, 2019, a [group met at the University of Richmond](https://github.com/nolauren/workshops/blob/master/cheasepeake.md) to solidify the consortium. At this meeting, we established a governance structure and finalized the statement of purpose. We hosted our first annual conference in February 2020. See the 2020 [CFP](/conference-2020) for more details on last year's events.
 
 
 # Credits
