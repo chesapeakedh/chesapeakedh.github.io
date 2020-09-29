@@ -4,7 +4,7 @@ title: Chesapeake Digital Humanities Consortium
 permalink: /conference-2021
 ---
 # Conference Info
-**2021 Theme: Social Justice and Online Activism**
+## **2021 Theme: Social Justice and Online Activism**
 
 **Date:** February 25th and 26th, 2021.
 
@@ -43,16 +43,16 @@ We encourage participation from the broader digital humanities communities, incl
 
 Applicants will be notified with a decision by December 31st, 2020.
 
-### Proposal Types
+### Proposal Types and Lengths
 All proposal abstracts should address 1) the research/pedagogical significance of the project, and 2) the platform or tool used in the project.
 
-- **Individual Presentations**: Please provide an abstract of 250 words and a brief bio (75 words).
+- **20-minute Individual Presentations**: Please provide an abstract of 250 words and a brief bio (75 words).
 
-- **Panels**: Panels feature individual presentations organized around a common topic. Please provide a panel rationale of no more than 300 words, with individual presentation abstracts (150-300 words) for up to five participants. Include titles and institutional affiliations for each participant. Only one person should submit abstracts on the panel’s behalf. (note: students should specify their institutional status).
+- **1-hour Panels**: Panels feature individual presentations organized around a common topic. Please provide a panel rationale of no more than 300 words, with individual presentation abstracts (150-300 words) for up to five participants. Include titles and institutional affiliations for each participant. Only one person should submit abstracts on the panel’s behalf. (note: students should specify their institutional status).
 
-- **Lightning Round**: Please submit a 100-word description on a topic you would like to discuss for 5 minutes.
+- **5-minute Lightning Round**: Please submit a 100-word description on a topic you would like to discuss.
 
-- **How I Made This**: In these show-and-tell sessions, members of the DH community will introduce you to their projects in a more practically-minded manner, with an opportunity for a robust conversation following. These sessions, which may foreground long-term research projects, small DH initiatives, or pedagogical projects, should be developed with an eye towards helping conference participants get a handle on the kinds of resources available, projects in development, and opportunities for collaboration and community-building. What was your goal or guiding question? What theoretical or contextual approaches framed your work? What tools did you use? What failures did you encounter, and what did you learn from them? What did you find successful? Did you pursue grants, and if so, how did you go about that? How does the project employ collaborators? How did you find institutional support? What is the next step for the project? Session leaders may elect to run a hands-on workshop, but proposals should bear in mind technological and geographical limitations. Sessions should not be organized around traditional papers. Each show-and-tell session is :45 in length, with at least half of the time reserved for discussion or Q&A.  Please submit a 150-word description and rationale of and for your proposed workshop, and indicate whether your workshop would be beginner, intermediate, or advanced.
+- **45-minute How I Made This**: In these show-and-tell sessions, members of the DH community will introduce you to their projects in a more practically-minded manner, with an opportunity for a robust conversation following. These sessions, which may foreground long-term research projects, small DH initiatives, or pedagogical projects, should be developed with an eye towards helping conference participants get a handle on the kinds of resources available, projects in development, and opportunities for collaboration and community-building. What was your goal or guiding question? What theoretical or contextual approaches framed your work? What tools did you use? What failures did you encounter, and what did you learn from them? What did you find successful? Did you pursue grants, and if so, how did you go about that? How does the project employ collaborators? How did you find institutional support? What is the next step for the project? Session leaders may elect to run a hands-on workshop, but proposals should bear in mind technological and geographical limitations. Sessions should not be organized around traditional papers. Each show-and-tell session is 45 minutes in length, with at least half of the time reserved for discussion or Q&A.  Please submit a 150-word description and rationale of and for your proposed workshop, and indicate whether your workshop would be beginner, intermediate, or advanced.
 
 If you have any questions, please contact chesapeakedhconsortium@gmail.com.
 
