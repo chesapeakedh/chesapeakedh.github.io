@@ -39,7 +39,7 @@ We encourage participation from the broader digital humanities communities, incl
 - Inclusive DH pedagogy
 - DH for social good
 
-**Please submit proposals online through our [proposal form](https://forms.gle/yo8ACeTgb93pX1gy5) by 11:59pm ET on November 31, 2020**. 
+**Please submit proposals online through our [proposal form](https://forms.gle/yo8ACeTgb93pX1gy5) by 11:59pm ET on November 30, 2020**. 
 
 All proposals will be reviewed by the Steering Committee and the Annual Program Committee. Applicants will be notified with a decision by December 31st, 2020.
 
@@ -54,7 +54,7 @@ All proposal abstracts should address 1) the research/pedagogical significance o
 
 - **45-minute How I Made This**: In these show-and-tell sessions, members of the DH community will introduce you to their projects in a more practically-minded manner, with an opportunity for a robust conversation following. These sessions, which may foreground long-term research projects, small DH initiatives, or pedagogical projects, should be developed with an eye towards helping conference participants get a handle on the kinds of resources available, projects in development, and opportunities for collaboration and community-building. What was your goal or guiding question? What theoretical or contextual approaches framed your work? What tools did you use? What failures did you encounter, and what did you learn from them? What did you find successful? Did you pursue grants, and if so, how did you go about that? How does the project employ collaborators? How did you find institutional support? What is the next step for the project? Session leaders may elect to run a hands-on workshop, but proposals should bear in mind technological and geographical limitations. Sessions should not be organized around traditional papers. Each show-and-tell session is 45 minutes in length, with at least half of the time reserved for discussion or Q&A.  Please submit a 150-word description and rationale of and for your proposed workshop, and indicate whether your workshop would be beginner, intermediate, or advanced.
 
-**[SUBMIT HERE](https://forms.gle/yo8ACeTgb93pX1gy5) by 11:59pm ET on November 31, 2020**
+**[SUBMIT HERE](https://forms.gle/yo8ACeTgb93pX1gy5) by 11:59pm ET on November 30, 2020**
 
 If you have any questions, please contact chesapeakedhconsortium@gmail.com.
 
