@@ -29,6 +29,10 @@ Former director of Digital Services at UVA and GWU, Dr. French is now Community 
 
 [The COVID Tracking Project](https://covidtracking.com/) is a volunteer organization launched from The Atlantic and dedicated to collecting and publishing the data required to understand the COVID-19 outbreak in the United States.  Every day, they collect data on COVID-19 testing and patient outcomes from all 50 states, 5 territories, and the District of Columbia. Their dataset is currently in use by national and local news organizations across the United States and by research projects and agencies worldwide. Their data API (which allows sites and apps to import our dataset automatically) receives about two million requests per day. On April 15, they launched the COVID Racial Data Tracker, a partnership between the COVID Tracking Project and the Center for Antiracist Research that collects, publishes, and analyzes racial data on the pandemic within the United States.
 
+## Registration
+Registration is now open and free! 
+
+**[REGISTER HERE](https://forms.gle/ZEGHHoY2MrRnePaH9) by 11:59pm ET on February 18th, 2021.**
 
 ## Call for Proposals - Deadline extended!
 ### Proposal Submissions
