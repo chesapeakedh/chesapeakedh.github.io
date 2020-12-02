@@ -13,7 +13,7 @@ CDHC has three guiding goals:
 * Fostering sharing, collaboration, and innovation among people, places, and institutions.
 
 # Join
-Joining CDHC is simple, just fill out our [membership form](https://docs.google.com/forms/d/e/1FAIpQLSfOUCgsA4eVrXws38-OQ9gmDj6qnazKx0Lnpu409OkMzO6JGA/viewform?usp=sf_link). You will have the option to make your information available in a public membership directory to facilitate collaboration amongst our members.
+Joining CDHC is simple, just fill out our [membership form](https://docs.google.com/forms/d/e/1FAIpQLSfOUCgsA4eVrXws38-OQ9gmDj6qnazKx0Lnpu409OkMzO6JGA/viewform?usp=sf_link)! You will have the option to make your information available in a public membership directory to facilitate collaboration amongst our members.
 
 Want to stay up to date on what's happening at other institutions? Sign-up for our [email list](https://groups.google.com/forum/#!forum/chesapeakedh).
 
@@ -37,7 +37,7 @@ Save the date! The Chesapeake Digital Humanities Consortium will be holding its 
   * Shayna Maskell, steering liaison - George Mason University
   * Sherri Brown - University of Virginia
   * Tonya-Marie Howe - Marymount University
-  * Luke Menzies, Virginia Tech
+  * Luke Menzies - Virginia Tech
   * Laura Martoff Miller - University of Virginia
 
 # History
