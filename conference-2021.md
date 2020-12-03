@@ -22,7 +22,10 @@ Follow the CDHC on Twitter at [@chesapeakeDH](https://twitter.com/chesapeakedh).
 
 Join us on our Slack channel #chesapeakeDH on the [DH Slack workspace](digitalhumanities.slack.com).
 
-## Keynote: Dr. Amanda French
+## Keynote: Dr. Amanda French 
+
+![Amanda French](/assets/amanda_vt_large-hi-res.jpg)
+
 [Dr. Amanda French](https://amandafrench.net/) will be keynoting CDHC 2021!
 
 Dr. French is the Community Lead and Data Entry Shift Lead at The COVID Tracking Project.
