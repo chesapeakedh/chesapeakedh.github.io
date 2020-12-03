@@ -12,7 +12,7 @@ permalink: /conference-2021
 
 **Registration fee:** FREE!
 
-**[Register for CDHC 2021](https://forms.gle/ZEGHHoY2MrRnePaH9)
+**[Register for CDHC 2021](https://forms.gle/ZEGHHoY2MrRnePaH9)**
 
 Shared notes are forthcoming.
 
