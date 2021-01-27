@@ -43,14 +43,6 @@ Presenters must register by 11:59pm ET on Feburary 12th, 2021.
 
 ## Program
 ### Day 1
-<table>
- <tr>
-  <th>Thursday</th><th>Session 1</th>
- </tr>
- <tr><td>11:00am ET - 12:00pm ET</td><td>Introduction and Keynote Amanda French</td>
- </tr>
- </table>
- 
  
  Thursday, February 25, 2021 | Session 1 | Session 2  | Session 3 
  ----- | --------- | ---------- | --------- 
