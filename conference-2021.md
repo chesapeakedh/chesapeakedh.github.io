@@ -57,6 +57,19 @@ Presenters must register by 11:59pm ET on Feburary 12th, 2021.
  4:00pm ET - 5:00pm ET | How I Made This: "Movable: Narratives of Recovery and Place" - Kristen Lillvis | How I Made This: "Cultural Heritage Data: How to Design a Representative Database" - Lada Zimina and Antonina Puchkovskaia | Panel: "The Covid-19 History Project: Undergraduate Research and Public History during a Pandemic" - Danielle Greene, Mary Culler, Madeline Altobelli, Bethany Stewart, Grace Barth, and Andrew Grant 
  5:00pm ET - 5:15pm ET | Break 
  5:15pm ET - 6:15pm ET | Virtual Happy Hour 
+ 
+ ### Day 2
+ 
+ Friday, February 26, 2021 | Session 1 | Session 2  | Session 3 
+ ----- | ----- | ----- | ----- 
+ 12:30pm ET - 1:30pm ET | How I Made This: "Child Labor Project: Using Historical Photographs to Teach Data in Social Context" - Tom Ewing | |  |
+ 1:30pm ET - 1:35pm ET | Break 
+ 1:35pm ET - 2:35pm ET | How I Made This: "Feminists Do Media: Instagram Hacking for the Resistance" - Shana MacDonald, Brianna I. Wiens | Panel: "‘Heritage from Below’: Building and Developing The South Asian Canadian Digital Archive (SACDA)" - Satwinder Kaur Bains and Magnus Berg | RHETORIC, NARRATIVE, & THE BODY: Individual Presentations <br><br>"Click me: multilinear cyberliterature as illness narrative for womxn with hyperandrogenism" - Megan Perram <br><br>"Iranian women and Baghdad bombing" - Zaina Ujayli <br><br>“Broletariat: Tik Tok and Hegemonic Masculinity” - Gavin Thibodeau (undergrad) 
+ 2:35pm ET - 2:55pm ET | Break 
+ 2:55pm ET - 3:55pm ET | How I Made This: "Literature in Context: An Open Anthology of Literature in English" - Tonya Howe | How I Made This: "The Roswell Museum Federal Art Center: Exploring the Archive with Scalar" - Sara Woodbury | Panel: "Using Digital Humanities Tools for Archival Description: the Slavery, Memory, and Reconciliation Initiative at Georgetown University" - Mary Beth Corrigan, Adrian Vaagenes, and Emily Baldoni 
+ 3:55pm ET - 4:00pm ET | Break 
+ 4:00pm ET - 5:00pm ET | Lightning Round & Closing Remarks 
+
 
 
 ## Call for Proposals closed
