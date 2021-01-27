@@ -43,7 +43,7 @@ Presenters must register by 11:59pm ET on Feburary 12th, 2021.
 
 ## Program
 
-All times are in Eastern Standad Time.
+All times are in Eastern Standard Time.
 
 ### Day 1
  
