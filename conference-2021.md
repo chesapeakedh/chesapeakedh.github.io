@@ -49,6 +49,14 @@ Presenters must register by 11:59pm ET on Feburary 12th, 2021.
  11:00am ET - 12:00pm ET | Introduction and Keynote Amanda French 
  12:00pm ET - 12:30pm ET | Lunch Break |
  12:30pm ET - 1:30pm ET | How I Made This: "Reframing the Remains: An Infrastructural Remediation of North Carolina" - Margaret Baker | Panel: "Finding Power &amp; Place for Undergraduate Online DH" - Desiree Dighton | GENDER & DIGITAL COMMUNITY: Individual Presentations<br><br>“De-“Cypher”-ing the Matrix: A Critique of the Manosphere and Red Pill Ideology" - Luka Dowell<br><br>"Recovering #SelfCare for Intersectional Feminist Futures: Neoliberalism, Self-Care, and Whiteness in Hashtag Communities" - Shana MacDonald, Brianna I. Wiens<br><br>"Coding for Trends: Author and Commenter Posting Trends in an Online Community" - Jaime W. Roots 
+ 1:30pm ET - 1:35pm ET | Break 
+ 1:35pm ET - 2:35pm ET | How I Made This: "None (for student-led activism around racial justice? Focusing on the ARTS 4800 practicum course)" - Greg Chan | Panel: "Huellas Incómodas: A Digital Preservation of the #UAEMex Student-Feminist Movement" - Sylvia Fernández Quintanilla, Isabel Colin Torres, Abraham Monroy, Alan Colín-Arce, and Irvin Pavel Santiago Bautista | PANDEMIC, PUBLIC HEALTH & HEALTHY PUBLICS: Individual Presentations<br><br>"CDC and WHO Twitter Messaging on COVID-19" - Katie Kuiper<br><br>"Overcoming the Pandemic through Viral Poetry Games: The Phenomenon of COVID-19-Inspired Digital Acrostic Poems in South Korea" - Christina Han<br><br>"A Study of Hashtags (untitled)" - Shri Vaishali V, Rukmini S" 
+ 2:35pm ET - 2:55pm ET | Break 
+ 2:55pm ET - 3:55pm ET | How I Made This: "Resilient Stillness—A performative tool about Stillness and Togetherness" - Brittney Harris | Panel: "Collecting and Contextualizing the Current Moment of Racial Reckoning" - Laura Brannan, Janine Hubai, Anne Dobberteen, Dr. George D. Oberle, and Alyssa Toby Fahringer | STATE, SECURITY, MEDIATION, & POWER: Individual Presentations 
+ 3:55pm ET - 4:00pm ET | Break 
+ 4:00pm ET - 5:00pm ET | How I Made This: "Movable: Narratives of Recovery and Place" - Kristen Lillvis | How I Made This: "Cultural Heritage Data: How to Design a Representative Database" - Lada Zimina and Antonina Puchkovskaia | Panel: "The Covid-19 History Project: Undergraduate Research and Public History during a Pandemic" - Danielle Greene, Mary Culler, Madeline Altobelli, Bethany Stewart, Grace Barth, and Andrew Grant 
+ 5:00pm ET - 5:15pm ET | Break 
+ 5:15pm ET - 6:15pm ET | Virtual Happy Hour 
 
 
 ## Call for Proposals closed
