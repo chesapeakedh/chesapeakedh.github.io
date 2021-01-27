@@ -45,7 +45,7 @@ Presenters must register by 11:59pm ET on Feburary 12th, 2021.
 
 All times are in Eastern Standard Time.
 
-### Day 1
+### Day 1: Thursday, February 25, 2021
  
  Thursday, February 25, 2021 | Session 1 | Session 2  | Session 3 
  ----- | --------- | ---------- | --------- 
@@ -61,7 +61,7 @@ All times are in Eastern Standard Time.
  5:00pm - 5:15pm | Break 
  5:15pm - 6:15pm | Virtual Happy Hour 
  
-### Day 2
+### Day 2: Friday, February 26, 2021
  
  Friday, February 26, 2021 | Session 1 | Session 2  | Session 3 
  ----- | ----- | ----- | ----- 
