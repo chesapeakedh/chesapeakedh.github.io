@@ -44,7 +44,7 @@ Presenters must register by 11:59pm ET on Feburary 12th, 2021.
 ## Program
 ### Day 1
 | Thursday, February 25, 2021 | Session 1 | Session 2  | Session 3 |
-| ----- | ----- | ----- | ----- |
+| --------------------------- | --------- | ---------- | --------- |
 | 11:00am ET - 12:00pm ET | Introduction and Keynote Amanda French |
 | 12:00pm ET - 12:30pm ET | Lunch Break |
 | 12:30pm ET - 1:30pm ET | How I Made This: "Reframing the Remains: An Infrastructural Remediation of North Carolina" - Margaret Baker | Panel: "Finding Power &amp; Place for Undergraduate Online DH" - Desiree Dighton | GENDER & DIGITAL COMMUNITY: Individual Presentations<br><br>“De-“Cypher”-ing the Matrix: A Critique of the Manosphere and Red Pill Ideology" - Luka Dowell<br><br>"Recovering #SelfCare for Intersectional Feminist Futures: Neoliberalism, Self-Care, and Whiteness in Hashtag Communities" - Shana MacDonald, Brianna I. Wiens<br><br>"Coding for Trends: Author and Commenter Posting Trends in an Online Community" - Jaime W. Roots | 
