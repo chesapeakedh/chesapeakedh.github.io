@@ -42,33 +42,36 @@ Registration is now open and free!
 Presenters must register by 11:59pm ET on Feburary 12th, 2021.
 
 ## Program
+
+All times are in Eastern Standad Time.
+
 ### Day 1
  
  Thursday, February 25, 2021 | Session 1 | Session 2  | Session 3 
  ----- | --------- | ---------- | --------- 
- 11:00am ET - 12:00pm ET | Introduction and Keynote Amanda French 
- 12:00pm ET - 12:30pm ET | Lunch Break |
- 12:30pm ET - 1:30pm ET | How I Made This: "Reframing the Remains: An Infrastructural Remediation of North Carolina" - Margaret Baker | Panel: "Finding Power &amp; Place for Undergraduate Online DH" - Desiree Dighton | GENDER & DIGITAL COMMUNITY: Individual Presentations<br><br>“De-“Cypher”-ing the Matrix: A Critique of the Manosphere and Red Pill Ideology" - Luka Dowell<br><br>"Recovering #SelfCare for Intersectional Feminist Futures: Neoliberalism, Self-Care, and Whiteness in Hashtag Communities" - Shana MacDonald, Brianna I. Wiens<br><br>"Coding for Trends: Author and Commenter Posting Trends in an Online Community" - Jaime W. Roots 
- 1:30pm ET - 1:35pm ET | Break 
- 1:35pm ET - 2:35pm ET | How I Made This: "None (for student-led activism around racial justice? Focusing on the ARTS 4800 practicum course)" - Greg Chan | Panel: "Huellas Incómodas: A Digital Preservation of the #UAEMex Student-Feminist Movement" - Sylvia Fernández Quintanilla, Isabel Colin Torres, Abraham Monroy, Alan Colín-Arce, and Irvin Pavel Santiago Bautista | PANDEMIC, PUBLIC HEALTH & HEALTHY PUBLICS: Individual Presentations<br><br>"CDC and WHO Twitter Messaging on COVID-19" - Katie Kuiper<br><br>"Overcoming the Pandemic through Viral Poetry Games: The Phenomenon of COVID-19-Inspired Digital Acrostic Poems in South Korea" - Christina Han<br><br>"A Study of Hashtags (untitled)" - Shri Vaishali V, Rukmini S" 
- 2:35pm ET - 2:55pm ET | Break 
- 2:55pm ET - 3:55pm ET | How I Made This: "Resilient Stillness—A performative tool about Stillness and Togetherness" - Brittney Harris | Panel: "Collecting and Contextualizing the Current Moment of Racial Reckoning" - Laura Brannan, Janine Hubai, Anne Dobberteen, Dr. George D. Oberle, and Alyssa Toby Fahringer | STATE, SECURITY, MEDIATION, & POWER: Individual Presentations 
- 3:55pm ET - 4:00pm ET | Break 
- 4:00pm ET - 5:00pm ET | How I Made This: "Movable: Narratives of Recovery and Place" - Kristen Lillvis | How I Made This: "Cultural Heritage Data: How to Design a Representative Database" - Lada Zimina and Antonina Puchkovskaia | Panel: "The Covid-19 History Project: Undergraduate Research and Public History during a Pandemic" - Danielle Greene, Mary Culler, Madeline Altobelli, Bethany Stewart, Grace Barth, and Andrew Grant 
- 5:00pm ET - 5:15pm ET | Break 
- 5:15pm ET - 6:15pm ET | Virtual Happy Hour 
+ 11:00am - 12:00pm | Introduction and Keynote Amanda French 
+ 12:00pm - 12:30pm | Lunch Break |
+ 12:30pm - 1:30pm | How I Made This: "Reframing the Remains: An Infrastructural Remediation of North Carolina" - Margaret Baker | Panel: "Finding Power &amp; Place for Undergraduate Online DH" - Desiree Dighton | GENDER & DIGITAL COMMUNITY: Individual Presentations<br><br>“De-“Cypher”-ing the Matrix: A Critique of the Manosphere and Red Pill Ideology" - Luka Dowell<br><br>"Recovering #SelfCare for Intersectional Feminist Futures: Neoliberalism, Self-Care, and Whiteness in Hashtag Communities" - Shana MacDonald, Brianna I. Wiens<br><br>"Coding for Trends: Author and Commenter Posting Trends in an Online Community" - Jaime W. Roots 
+ 1:30pm - 1:35pm | Break 
+ 1:35pm - 2:35pm | How I Made This: "None (for student-led activism around racial justice? Focusing on the ARTS 4800 practicum course)" - Greg Chan | Panel: "Huellas Incómodas: A Digital Preservation of the #UAEMex Student-Feminist Movement" - Sylvia Fernández Quintanilla, Isabel Colin Torres, Abraham Monroy, Alan Colín-Arce, and Irvin Pavel Santiago Bautista | PANDEMIC, PUBLIC HEALTH & HEALTHY PUBLICS: Individual Presentations<br><br>"CDC and WHO Twitter Messaging on COVID-19" - Katie Kuiper<br><br>"Overcoming the Pandemic through Viral Poetry Games: The Phenomenon of COVID-19-Inspired Digital Acrostic Poems in South Korea" - Christina Han<br><br>"A Study of Hashtags (untitled)" - Shri Vaishali V, Rukmini S" 
+ 2:35pm - 2:55pm | Break 
+ 2:55pm - 3:55pm | How I Made This: "Resilient Stillness—A performative tool about Stillness and Togetherness" - Brittney Harris | Panel: "Collecting and Contextualizing the Current Moment of Racial Reckoning" - Laura Brannan, Janine Hubai, Anne Dobberteen, Dr. George D. Oberle, and Alyssa Toby Fahringer | STATE, SECURITY, MEDIATION, & POWER: Individual Presentations 
+ 3:55pm - 4:00pm | Break 
+ 4:00pm - 5:00pm | How I Made This: "Movable: Narratives of Recovery and Place" - Kristen Lillvis | How I Made This: "Cultural Heritage Data: How to Design a Representative Database" - Lada Zimina and Antonina Puchkovskaia | Panel: "The Covid-19 History Project: Undergraduate Research and Public History during a Pandemic" - Danielle Greene, Mary Culler, Madeline Altobelli, Bethany Stewart, Grace Barth, and Andrew Grant 
+ 5:00pm - 5:15pm | Break 
+ 5:15pm - 6:15pm | Virtual Happy Hour 
  
- ### Day 2
+### Day 2
  
  Friday, February 26, 2021 | Session 1 | Session 2  | Session 3 
  ----- | ----- | ----- | ----- 
- 12:30pm ET - 1:30pm ET | How I Made This: "Child Labor Project: Using Historical Photographs to Teach Data in Social Context" - Tom Ewing | |  |
- 1:30pm ET - 1:35pm ET | Break 
- 1:35pm ET - 2:35pm ET | How I Made This: "Feminists Do Media: Instagram Hacking for the Resistance" - Shana MacDonald, Brianna I. Wiens | Panel: "‘Heritage from Below’: Building and Developing The South Asian Canadian Digital Archive (SACDA)" - Satwinder Kaur Bains and Magnus Berg | RHETORIC, NARRATIVE, & THE BODY: Individual Presentations <br><br>"Click me: multilinear cyberliterature as illness narrative for womxn with hyperandrogenism" - Megan Perram <br><br>"Iranian women and Baghdad bombing" - Zaina Ujayli <br><br>“Broletariat: Tik Tok and Hegemonic Masculinity” - Gavin Thibodeau (undergrad) 
- 2:35pm ET - 2:55pm ET | Break 
- 2:55pm ET - 3:55pm ET | How I Made This: "Literature in Context: An Open Anthology of Literature in English" - Tonya Howe | How I Made This: "The Roswell Museum Federal Art Center: Exploring the Archive with Scalar" - Sara Woodbury | Panel: "Using Digital Humanities Tools for Archival Description: the Slavery, Memory, and Reconciliation Initiative at Georgetown University" - Mary Beth Corrigan, Adrian Vaagenes, and Emily Baldoni 
- 3:55pm ET - 4:00pm ET | Break 
- 4:00pm ET - 5:00pm ET | Lightning Round & Closing Remarks 
+ 12:30pm - 1:30pm | How I Made This: "Child Labor Project: Using Historical Photographs to Teach Data in Social Context" - Tom Ewing | |  |
+ 1:30pm - 1:35pm | Break 
+ 1:35pm - 2:35pm | How I Made This: "Feminists Do Media: Instagram Hacking for the Resistance" - Shana MacDonald, Brianna I. Wiens | Panel: "‘Heritage from Below’: Building and Developing The South Asian Canadian Digital Archive (SACDA)" - Satwinder Kaur Bains and Magnus Berg | RHETORIC, NARRATIVE, & THE BODY: Individual Presentations <br><br>"Click me: multilinear cyberliterature as illness narrative for womxn with hyperandrogenism" - Megan Perram <br><br>"Iranian women and Baghdad bombing" - Zaina Ujayli <br><br>“Broletariat: Tik Tok and Hegemonic Masculinity” - Gavin Thibodeau (undergrad) 
+ 2:35pm - 2:55pm | Break 
+ 2:55pm - 3:55pm | How I Made This: "Literature in Context: An Open Anthology of Literature in English" - Tonya Howe | How I Made This: "The Roswell Museum Federal Art Center: Exploring the Archive with Scalar" - Sara Woodbury | Panel: "Using Digital Humanities Tools for Archival Description: the Slavery, Memory, and Reconciliation Initiative at Georgetown University" - Mary Beth Corrigan, Adrian Vaagenes, and Emily Baldoni 
+ 3:55pm - 4:00pm | Break 
+ 4:00pm - 5:00pm | Lightning Round & Closing Remarks 
 
 
 
