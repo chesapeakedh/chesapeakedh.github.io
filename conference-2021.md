@@ -57,7 +57,8 @@ All times are in Eastern Standard Time.
  2:35pm - 2:55pm | Break 
  2:55pm - 3:55pm | How I Made This: "Resilient Stillness—A performative tool about Stillness and Togetherness" - Brittney Harris | Panel: "Collecting and Contextualizing the Current Moment of Racial Reckoning" - Laura Brannan, Janine Hubai, Anne Dobberteen, Dr. George D. Oberle, and Alyssa Toby Fahringer | STATE, SECURITY, MEDIATION, & POWER: Individual Presentations 
  3:55pm - 4:00pm | Break 
- 4:00pm - 5:00pm | How I Made This: "Movable: Narratives of Recovery and Place" - Kristen Lillvis | How I Made This: "Cultural Heritage Data: How to Design a Representative Database" - Lada Zimina and Antonina Puchkovskaia | Panel: "The Covid-19 History Project: Undergraduate Research and Public History during a Pandemic" - Danielle Greene, Mary Culler, Madeline Altobelli, Bethany Stewart, Grace Barth, and Andrew Grant 
+ 4:00pm - 5:00pm | How I Made This: "Movable: Narratives of Recovery and Place" - Kristen Lillvis | How I Made This: "Cultural Heritage Data: How to Design a Representative Database" - Lada Zimina and Antonina Puchkovskaia | Panel: "The Covid-19 History Project: 
+ uate Research and Public History during a Pandemic" - Danielle Greene, Mary Culler, Madeline Altobelli, Bethany Stewart, Grace Barth, and Andrew Grant 
  5:00pm - 5:15pm | Break 
  5:15pm - 6:15pm | Virtual Happy Hour 
  
@@ -67,7 +68,7 @@ All times are in Eastern Standard Time.
  ----- | ----- | ----- | ----- 
  12:30pm - 1:30pm | How I Made This: "Child Labor Project: Using Historical Photographs to Teach Data in Social Context" - Tom Ewing | |  |
  1:30pm - 1:35pm | Break 
- 1:35pm - 2:35pm | How I Made This: "Feminists Do Media: Instagram Hacking for the Resistance" - Shana MacDonald, Brianna I. Wiens | Panel: "‘Heritage from Below’: Building and Developing The South Asian Canadian Digital Archive (SACDA)" - Satwinder Kaur Bains and Magnus Berg | RHETORIC, NARRATIVE, & THE BODY: Individual Presentations <br><br>"Click me: multilinear cyberliterature as illness narrative for womxn with hyperandrogenism" - Megan Perram <br><br>"Iranian women and Baghdad bombing" - Zaina Ujayli <br><br>“Broletariat: Tik Tok and Hegemonic Masculinity” - Gavin Thibodeau (undergrad) 
+ 1:35pm - 2:35pm | How I Made This: "Feminists Do Media: Instagram Hacking for the Resistance" - Shana MacDonald, Brianna I. Wiens | Panel: "‘Heritage from Below’: Building and Developing The South Asian Canadian Digital Archive (SACDA)" - Satwinder Kaur Bains and Magnus Berg | RHETORIC, NARRATIVE, & THE BODY: Individual Presentations <br><br>"Click me: multilinear cyberliterature as illness narrative for womxn with hyperandrogenism" - Megan Perram <br><br>"Iranian women and Baghdad bombing" - Zaina Ujayli <br><br>“Broletariat: Tik Tok and Hegemonic Masculinity” - Gavin Thibodeau 
  2:35pm - 2:55pm | Break 
  2:55pm - 3:55pm | How I Made This: "Literature in Context: An Open Anthology of Literature in English" - Tonya Howe | How I Made This: "The Roswell Museum Federal Art Center: Exploring the Archive with Scalar" - Sara Woodbury | Panel: "Using Digital Humanities Tools for Archival Description: the Slavery, Memory, and Reconciliation Initiative at Georgetown University" - Mary Beth Corrigan, Adrian Vaagenes, and Emily Baldoni 
  3:55pm - 4:00pm | Break 
