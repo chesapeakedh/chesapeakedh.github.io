@@ -41,6 +41,20 @@ Registration is now open and free!
 
 Presenters must register by 11:59pm ET on Feburary 12th, 2021.
 
+## Social
+### Digital Humanities Bingo
+Download one or many [Digital Humanities-themed bingo cards](https://drive.google.com/drive/folders/1xnIZo654JjYM3lpwWxfxmuBi9Oxy4OV2?usp=sharing) and play along throughout the sessions!
+
+What counts:
+- Words or phrases spoken during presentations by presenters
+- Forms of words count (Access/Accessibility)
+- The center “DH” is a free space
+
+There are no prizes, only enduring admiration.
+
+### Virtual Happy Hour
+Join us Thursday, February 26th from 5:15-6:15pm ET for a virtual happy hour for some informal chatting and networking!
+
 ## Program
 
 All times are in Eastern Standard Time.
