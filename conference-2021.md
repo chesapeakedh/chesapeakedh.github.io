@@ -71,7 +71,7 @@ All times are in Eastern Standard Time.
  2:35pm - 2:55pm | Break 
  2:55pm - 3:55pm | How I Made This: "Resilient Stillness—A performative tool about Stillness and Togetherness" - Brittney Harris | Panel: "Collecting and Contextualizing the Current Moment of Racial Reckoning" - Laura Brannan, Janine Hubai, Anne Dobberteen, Dr. George D. Oberle, and Alyssa Toby Fahringer | STATE, SECURITY, MEDIATION, & POWER: Individual Presentations <br><br>"Avoiding the Automation of Inequality: The Need for Secure and Equitable Social Nets" - Donna Schaeffer <br><br>"Sousveillance: Filling the Legal Gap" - Kelly Wheeler <br><br>"Digitally mediated inclusive comparison: A Pedagogy" - Sayan Bhattacharyya 
  3:55pm - 4:00pm | Break 
- 4:00pm - 5:00pm | How I Made This: "Movable: Narratives of Recovery and Place" - Kristen Lillvis | How I Made This: "Reframing the Remains: An Infrastructural Remediation of North Carolina" - Margaret Baker | Panel: "The Covid-19 History Project: Undergraduate Research and Public History during a Pandemic" - Danielle Greene, Mary Culler, Madeline Altobelli, Bethany Stewart, Grace Barth, and Andrew Grant 
+ 4:00pm - 5:00pm | How I Made This: "Movable: Narratives of Recovery and Place" - Kristen Lillvis and Paige Justice | How I Made This: "Reframing the Remains: An Infrastructural Remediation of North Carolina" - Margaret Baker | Panel: "The Covid-19 History Project: Undergraduate Research and Public History during a Pandemic" - Danielle Greene, Mary Culler, Madeline Altobelli, Bethany Stewart, Grace Barth, and Andrew Grant 
  5:00pm - 5:15pm | Break 
  5:15pm - 6:15pm | Virtual Happy Hour 
  
