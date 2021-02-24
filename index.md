@@ -30,7 +30,6 @@ Save the date! The Chesapeake Digital Humanities Consortium will be holding its 
 
 # Governance
 * Steering Chair - Corinne Guimont, Digital Scholarship Coordinator, Virginia Tech
-* Vice-chair - Michael Davis, Associate Professor of History, Hampton University
 * Communication chair - Alex Kinnaman, Digital Preservation Coordinator, Virginia Tech
 * Membership & Outreach chair - Shayna Maskell, Associate Professor in the School of Integrative Studies, George Mason University
 * Annual Program committee:
