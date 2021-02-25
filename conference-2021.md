@@ -64,7 +64,7 @@ All times are in Eastern Standard Time.
 Event | Zoom
 ----- | -----
 Opening Remarks and Keynote | [Zoom](https://virginiatech.zoom.us/j/82128275873)
-Session 1 and Thursday Happy Hour | [Zoom](https://virginiatech.zoom.us/j/85139478119?pwd=a3VxcEZhWVJpZXl5bE4vQWVSbURyQT09)
+Session 1 and Thursday Happy Hour | [Zoom]( https://virginia.zoom.us/j/92764731652?pwd=VEg5UzFSM3VDU1pva2cydHpsYzl2UT09)
 Session 2 | [Zoom](https://virginiatech.zoom.us/j/83503585511?pwd=bmp3SzVTTm9uSU85alk0dkxMMzRRdz09)
 Session 3 | [Zoom](https://virginiatech.zoom.us/j/84141517427?pwd=ZzlBNVJXNFNtaWlOcGI1RkhJK1VPZz09)
 Closing Remarks and Lightning Talks | [Zoom](https://virginiatech.zoom.us/j/89431475987)
