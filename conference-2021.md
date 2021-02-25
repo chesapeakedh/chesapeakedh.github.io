@@ -22,7 +22,7 @@ The Twitter hashtag for the conference will be [#CDHC2021](https://twitter.com/h
 
 Follow the CDHC on Twitter at [@chesapeakeDH](https://twitter.com/chesapeakedh).
 
-Join us on our Slack channel #chesapeakeDH on the [DH Slack workspace](digitalhumanities.slack.com).
+Join us on our Slack channel #chesapeakeDH on the [DH Slack workspace](http://tinyurl.com/DHslack).
 
 ## Keynote: Dr. Amanda French 
 
