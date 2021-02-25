@@ -36,7 +36,7 @@ Save the date! The Chesapeake Digital Humanities Consortium will be holding its 
   * Shayna Maskell, steering liaison - George Mason University
   * Sherri Brown - University of Virginia
   * Tonya-Marie Howe - Marymount University
-  * Luke Menzies - Virginia Tech
+  * Luke Menzies - University of Alabama at Birmingham
   * Laura Martoff Miller - University of Virginia
 
 # History
