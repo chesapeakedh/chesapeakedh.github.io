@@ -59,6 +59,17 @@ Join us Thursday, February 26th from 5:15-6:15pm ET for a virtual happy hour for
 
 All times are in Eastern Standard Time.
 
+### Zoom Info
+
+Event | Zoom
+----- | -----
+Opening Remarks and Keynote | [Zoom](https://virginiatech.zoom.us/j/82128275873)
+Session 1 and Thursday Happy Hour | [Zoom](https://virginiatech.zoom.us/j/85139478119?pwd=a3VxcEZhWVJpZXl5bE4vQWVSbURyQT09)
+Session 2 | [Zoom](https://virginiatech.zoom.us/j/83503585511?pwd=bmp3SzVTTm9uSU85alk0dkxMMzRRdz09)
+Session 3 | [Zoom](https://virginiatech.zoom.us/j/84141517427?pwd=ZzlBNVJXNFNtaWlOcGI1RkhJK1VPZz09)
+Closing Remarks and Lightning Talks | [Zoom](https://virginiatech.zoom.us/j/89431475987)
+
+
 ### Day 1: Thursday, February 25, 2021
  
  Thursday, February 25, 2021 | Session 1 | Session 2  | Session 3 
