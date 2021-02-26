@@ -85,7 +85,17 @@ Closing Remarks and Lightning Talks | [Zoom](https://virginiatech.zoom.us/j/8943
  4:00pm - 5:00pm | How I Made This: "Movable: Narratives of Recovery and Place" - Kristen Lillvis and Paige Justice | How I Made This: "Reframing the Remains: An Infrastructural Remediation of North Carolina" - Margaret Baker | Panel: "The Covid-19 History Project: Undergraduate Research and Public History during a Pandemic" - Danielle Greene, Mary Culler, Madeline Altobelli, Bethany Stewart, Grace Barth, and Andrew Grant 
  5:00pm - 5:15pm | Break 
  5:15pm - 6:15pm | Virtual Happy Hour 
- 
+
+### Zoom Info
+
+Event | Zoom
+----- | -----
+Opening Remarks and Keynote | [Zoom](https://virginiatech.zoom.us/j/82128275873)
+Session 1 | [Zoom](https://virginiatech.zoom.us/j/86872432389?pwd=ZlpFaWt6T2o2M3BCZk5uVXZzbitaQT09)
+Session 2 | [Zoom](https://virginiatech.zoom.us/j/83503585511?pwd=bmp3SzVTTm9uSU85alk0dkxMMzRRdz09)
+Session 3 | [Zoom](https://virginiatech.zoom.us/j/84141517427?pwd=ZzlBNVJXNFNtaWlOcGI1RkhJK1VPZz09)
+Closing Remarks and Lightning Talks | [Zoom](https://virginiatech.zoom.us/j/89431475987) 
+
 ### Day 2: Friday, February 26, 2021
  
  Friday, February 26, 2021 | Session 1 | Session 2  | Session 3 
