@@ -106,7 +106,7 @@ Closing Remarks and Lightning Talks | [Zoom](https://virginiatech.zoom.us/j/8943
  2:35pm - 2:55pm | Break 
  2:55pm - 3:55pm | How I Made This: "Child Labor Project: Using Historical Photographs to Teach Data in Social Context" - Tom Ewing | How I Made This: "The Roswell Museum Federal Art Center: Exploring the Archive with Scalar" - Sara Woodbury | Panel: "Using Digital Humanities Tools for Archival Description: the Slavery, Memory, and Reconciliation Initiative at Georgetown University" - Mary Beth Corrigan, Adrian Vaagenes, and Emily Baldoni 
  3:55pm - 4:00pm | Break 
- 4:00pm - 5:00pm | Lightning Round & Closing Remarks | LIGHTNING TALKS:<br><br>"The Ubume Challenge: A Digital Environmental Humanities Project" - Sam Risak <br><br>"Digital Mapping and Public History in Revealing Police Violence and Activism in the Great Plains" - Joel Zapata <br><br>"Apartheid Heritage(s)" - Cassie Tanks
+ 4:00pm - 5:00pm | Lightning Round & Closing Remarks | LIGHTNING TALKS:<br><br>"The Ubume Challenge: A Digital Environmental Humanities Project" - Sam Risak <br><br>"Digital Mapping and Public History in Revealing Police Violence and Activism in the Great Plains" - Joel Zapata <br><br>"Apartheid Heritage(s)" - Cassie Tanks <br><br>"Proctorio" - Julia Knott
 
 ## Call for Proposals closed
 ### Proposal Submissions
