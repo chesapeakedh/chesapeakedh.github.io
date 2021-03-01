@@ -22,9 +22,9 @@ We can also be found on the #chesapeakedh channel on the [Digital Humanities Sla
 # Members
 View our public [membership roster](https://docs.google.com/spreadsheets/d/1GChEHwmtmvwgv3E16cH7URkSdhd3IIlODzAuoHaWIwQ/edit?usp=sharing) to learn more about our members and find collaborators.
 
-# Conference
+# [Conference](https://chesapeakedh.github.io/conference-2021)
 
-Save the date! The Chesapeake Digital Humanities Consortium will be holding its second annual conference **[Social Justice and Online Activism](https://chesapeakedh.github.io/conference-2021).** This year's conference will be held virtually on Zoom in two half-day sessions on February 25th and 26th, Keynoted by Dr. Amanda French.
+Save the date! The Chesapeake Digital Humanities Consortium held its second annual conference **[Social Justice and Online Activism](https://chesapeakedh.github.io/conference-2021).** This year's conference was held virtually on Zoom in two half-day sessions on February 25th and 26th, Keynoted by Dr. Amanda French.
 
 **Check out our [2021 CDHC Conference](https://chesapeakedh.github.io/conference-2021) page for more details!** 
 
