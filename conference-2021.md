@@ -12,10 +12,6 @@ permalink: /conference-2021
 
 **Registration fee:** FREE!
 
-**[Register for CDHC 2021](https://forms.gle/ZEGHHoY2MrRnePaH9)**
-
-Shared notes are forthcoming.
-
 ### Social Media
 
 The Twitter hashtag for the conference will be [#CDHC2021](https://twitter.com/hashtag/CDHC2021).
@@ -34,13 +30,6 @@ Dr. French is the Community Lead and Data Entry Shift Lead at The COVID Tracking
 
 [The COVID Tracking Project](https://covidtracking.com/) is a volunteer organization launched from The Atlantic and dedicated to collecting and publishing the data required to understand the COVID-19 outbreak in the United States.  Every day, they collect data on COVID-19 testing and patient outcomes from all 50 states, 5 territories, and the District of Columbia. Their dataset is currently in use by national and local news organizations across the United States and by research projects and agencies worldwide. Their data API (which allows sites and apps to import our dataset automatically) receives about two million requests per day. On April 15, they launched the COVID Racial Data Tracker, a partnership between the COVID Tracking Project and the Center for Antiracist Research that collects, publishes, and analyzes racial data on the pandemic within the United States.
 
-## Registration
-Registration is now open and free! 
-
-**[REGISTER HERE](https://forms.gle/ZEGHHoY2MrRnePaH9) by 11:59pm ET on February 18th, 2021.** 
-
-Presenters must register by 11:59pm ET on Feburary 12th, 2021.
-
 ## Social
 ### Digital Humanities Bingo
 Download one or many [Digital Humanities-themed bingo cards](https://drive.google.com/drive/folders/1xnIZo654JjYM3lpwWxfxmuBi9Oxy4OV2?usp=sharing) and play along throughout the sessions!
@@ -58,6 +47,9 @@ Join us Thursday, February 26th from 5:15-6:15pm ET for a virtual happy hour for
 ## Program
 
 All times are in Eastern Standard Time.
+
+## [Conference Repository](https://osf.io/6kcgw/)
+The 2021 Conference recordings and available slides are accessible in our [OSF repository](https://osf.io/6kcgw/)! All content is licensed under a [CC-By Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ### Day 1: Thursday, February 25, 2021
  
