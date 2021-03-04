@@ -12,6 +12,8 @@ permalink: /conference-2021
 
 **Registration fee:** FREE!
 
+[**2021 Conference repository**](https://osf.io/6kcgw/)
+
 ### Social Media
 
 The Twitter hashtag for the conference will be [#CDHC2021](https://twitter.com/hashtag/CDHC2021).
