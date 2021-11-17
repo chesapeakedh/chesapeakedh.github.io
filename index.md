@@ -24,9 +24,9 @@ View our public [membership roster](https://docs.google.com/spreadsheets/d/1GChE
 
 # [Conference](https://chesapeakedh.github.io/conference-2022)
 
-Save the date! The Chesapeake Digital Humanities Consortium will hold its third annual conference **[Digital Pandemic Studies: Public Health and Structural Oppressions](https://chesapeakedh.github.io/conference-2022)** virtually on Zoom in two half-day sessions, March 3 and 4. 
+Save the date! The Chesapeake Digital Humanities Consortium will hold its third annual conference **[Digital Pandemic Studies: Public Health and Structural Oppressions](https://chesapeakedh.github.io/conference-2022.md)** virtually on Zoom in two half-day sessions, March 3 and 4. 
 
-**Check out our [2022 CDHC Conference](https://chesapeakedh.github.io/conference-2022) page for more details!** 
+**Check out our [2022 CDHC Conference](https://chesapeakedh.github.io/conference-2022.md) page for more details!** 
 
 # Governance
 * Steering Chair - Corinne Guimont, Digital Scholarship Coordinator, Virginia Tech
