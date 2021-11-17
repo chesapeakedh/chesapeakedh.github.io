@@ -22,7 +22,7 @@ We can also be found on the #chesapeakedh channel on the [Digital Humanities Sla
 # Members
 View our public [membership roster](https://docs.google.com/spreadsheets/d/1GChEHwmtmvwgv3E16cH7URkSdhd3IIlODzAuoHaWIwQ/edit?usp=sharing) to learn more about our members and find collaborators.
 
-# [Conference](https://chesapeakedh.github.io/conference-2022)
+# [Conference](https://chesapeakedh.github.io/conference-2022.md)
 
 Save the date! The Chesapeake Digital Humanities Consortium will hold its third annual conference **[Digital Pandemic Studies: Public Health and Structural Oppressions](https://chesapeakedh.github.io/conference-2022.md)** virtually on Zoom in two half-day sessions, March 3 and 4. 
 
