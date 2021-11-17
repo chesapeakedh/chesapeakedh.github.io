@@ -56,7 +56,7 @@ The 2022 Conference recordings and available slides will be accessible in our [O
 ### Proposal Submissions
 The Chesapeake Digital Humanities Consortium (CDHC) invites submissions for its third annual conference: Digital Pandemic Studies: Public Health and Structural Oppressions
 In the early 2020s we as citizens of the world find ourselves grappling with two pandemics - COVID-19 and its long tail, race and structural oppressions in public life, and all the places where these two intersect. With this in mind, the Chesapeake Digital Humanities Conference invites proposals for papers to be presented at the 2022 CDHC on any topic related to the COVID-19 pandemic and/or structural oppressions in public life, and in particular where the two intersect. We welcome original contributions from those researching and working in any field of study from anywhere in the world, especially those pursuing new research or perspectives on the effects of COVID-19 and structural oppressions. 
-This year’s conference will be held virtually on Zoom in two half-day sessions on March 3rd and 4th (1-4pm). There will be no conference registration fee, but all attendees should register to be provided with access. Registration will close on March 2. All details--submission form, registration, schedule, and access information--will be available online at https://chesapeakedh.github.io/. Questions? chesapeakedhconsortium@gmail.com
+This year’s conference will be held virtually on Zoom in two half-day sessions on March 3rd and 4th (1-4pm). There will be no conference registration fee, but all attendees should register to be provided with access. Registration will close on March 2. All details--submission form, registration, schedule, and access information--will be available online at [https://chesapeakedh.github.io/](https://chesapeakedh.github.io/). Questions? **chesapeakedhconsortium@gmail.com**
 
 We encourage participation from the broader digital humanities communities, including undergraduate and graduate students, early career scholars, college and university faculty, independent scholars, community members, librarians, archivists, and technologists. Within the larger theme of Digital Pandemic Studies: Public Health and Structural Oppressions, we encourage submissions on topics including but not limited to the following:
 - COVID dashboards, politics and design
@@ -74,7 +74,7 @@ We encourage participation from the broader digital humanities communities, incl
 - Epidemics, historiography, and popular memory
 - The long tail of pandemics - past, present, future
 
-Please submit proposals online through our form by December 31, 2021. All proposals will be reviewed by the Steering Committee and the Annual Program Committee. Acknowledgement of receipt will be made by January 7, 2022. Applicants will be notified with a decision by January 20, 2022. 
+**[Please submit proposals online through our form by December 31, 2021.](https://forms.gle/1JYaNgv9DJgFZVFr5)** All proposals will be reviewed by the Steering Committee and the Annual Program Committee. Acknowledgement of receipt will be made by January 7, 2022. Applicants will be notified with a decision by January 20, 2022. 
 
 ### Proposal Types
 All proposal abstracts should address 1) the research/pedagogical significance of the project, and, where appropriate, 2) the platform or tool used in the project.
