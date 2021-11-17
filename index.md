@@ -22,11 +22,11 @@ We can also be found on the #chesapeakedh channel on the [Digital Humanities Sla
 # Members
 View our public [membership roster](https://docs.google.com/spreadsheets/d/1GChEHwmtmvwgv3E16cH7URkSdhd3IIlODzAuoHaWIwQ/edit?usp=sharing) to learn more about our members and find collaborators.
 
-# [Conference](https://chesapeakedh.github.io/conference-2021)
+# [Conference](https://chesapeakedh.github.io/conference-2022)
 
-Save the date! The Chesapeake Digital Humanities Consortium held its second annual conference **[Social Justice and Online Activism](https://chesapeakedh.github.io/conference-2021).** This year's conference was held virtually on Zoom in two half-day sessions on February 25th and 26th, Keynoted by Dr. Amanda French.
+Save the date! The Chesapeake Digital Humanities Consortium will hold its third annual conference **[Digital Pandemic Studies: Public Health and Structural Oppressions](https://chesapeakedh.github.io/conference-2022)** virtually on Zoom in two half-day sessions, March 3 and 4. 
 
-**Check out our [2021 CDHC Conference](https://chesapeakedh.github.io/conference-2021) page for more details!** 
+**Check out our [2022 CDHC Conference](https://chesapeakedh.github.io/conference-2022) page for more details!** 
 
 # Governance
 * Steering Chair - Corinne Guimont, Digital Scholarship Coordinator, Virginia Tech
@@ -34,10 +34,14 @@ Save the date! The Chesapeake Digital Humanities Consortium held its second annu
 * Membership & Outreach chair - Shayna Maskell, Associate Professor in the School of Integrative Studies, George Mason University
 * Annual Program committee:
   * Shayna Maskell, steering liaison - George Mason University
-  * Sherri Brown - University of Virginia
   * Tonya-Marie Howe - Marymount University
-  * Luke Menzies - University of Alabama at Birmingham
-  * Laura Martoff Miller - University of Virginia
+  * Junjie Luo - Gettysburg College
+  * Michael Davis - Hampton University
+  * Riddhima Rajesh Sharma - Bowling Green State University
+  * George Oberle - George Mason University
+  * Sara Woodbury - College of William and Mary
+  * Jonathan Newby - College of William and Mary
+  * Donna Schaefer - Marymount University
 
 # History
 With the help of funding from the Associated Colleges of the South, Washington and Lee University, and University of Virginia Scholars’ Lab, the Consortium [formed in March 2018](http://symposium.scholarslab.org/) to encourage collaboration across liberal arts colleges and Carnegie classification Research I universities. The scope quickly expanded to focus on people, rather than institutions, in the Washington D.C, Maryland, and Virginia region.
