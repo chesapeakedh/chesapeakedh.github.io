@@ -46,7 +46,7 @@ Save the date! The Chesapeake Digital Humanities Consortium will hold its third 
 # History
 With the help of funding from the Associated Colleges of the South, Washington and Lee University, and University of Virginia Scholars’ Lab, the Consortium [formed in March 2018](http://symposium.scholarslab.org/) to encourage collaboration across liberal arts colleges and Carnegie classification Research I universities. The scope quickly expanded to focus on people, rather than institutions, in the Washington D.C, Maryland, and Virginia region.
 
-On May 29, 2019, a [group met at the University of Richmond](https://github.com/nolauren/workshops/blob/master/cheasepeake.md) to solidify the consortium. At this meeting, we established a governance structure and finalized the statement of purpose. We hosted our first annual conference in February 2020. See the 2020 [CFP](/conference-2020) for more details on last year's events.
+On May 29, 2019, a [group met at the University of Richmond](https://github.com/nolauren/workshops/blob/master/cheasepeake.md) to solidify the consortium. At this meeting, we established a governance structure and finalized the statement of purpose. We hosted our first annual conference in February 2020. See the 2021 [CFP](/conference-2021) for more details on last year's events.
 
 
 # Credits
