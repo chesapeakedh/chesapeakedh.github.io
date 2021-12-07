@@ -22,7 +22,8 @@ Follow the CDHC on Twitter at [@chesapeakeDH](https://twitter.com/chesapeakedh).
 
 Join us on our Slack channel #chesapeakeDH on the [DH Slack workspace](http://tinyurl.com/DHslack).
 
-## Keynote: TBA 
+## Keynote: Kim Gallon
+Kim Gallon is an Associate Professor of History at Purdue University and the Director of [COVID Black](https://www.covidblack.org/), a Black health data organization that uses data to tell stories about the Black lived experience to advocate for health equity. The goal of COVID Black is to honor and value each Black life that is lost to COVID-19. To learn more about her research and teaching, follow her on Twitter, [@BlackDigitalHum](https://twitter.com/BlackDigitalHum).
 
 ## Social
 ### Digital Humanities Bingo
