@@ -83,7 +83,7 @@ All proposal abstracts should address 1) the research/pedagogical significance o
 - Lightning Round. Please submit a 100-word description of a topic you would like to discuss for 3-5 minutes, maximum.
 - How I Made This. Please submit an abstract of 250 words. In these show-and-tell sessions, members of the DH community will introduce you to their projects in a more practically-minded manner, with an opportunity for a robust conversation following. ‘How I Made This’ sessions may foreground long-term research projects, small DH initiatives, or pedagogical projects, and should be developed with an eye towards helping conference participants get a handle on the kinds of resources available, projects in development, and opportunities for collaboration and community-building. Session leaders may elect to run a hands-on workshop, but proposals should bear in mind technological and geographical limitations. Sessions should not be organized around traditional papers. Each show-and-tell session is 1 hour in length, with at least half of the time reserved for discussion or Q&A.  
 
-All proposals will be reviewed by the Steering Committee and the Annual Program Committee. Applicants will be notified with a decision by December 31st, 2020.
+All proposals will be reviewed by the Steering Committee and the Annual Program Committee. 
 
 If you have any questions, please contact chesapeakedhconsortium@gmail.com.
 
