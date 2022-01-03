@@ -52,7 +52,9 @@ The 2022 Conference recordings and available slides will be accessible in our [O
  
 ### Day 2: Friday, March 4, 2022
  
-## Call for Proposals 
+## Call for Proposals -- EXTENDED TO MONDAY, JANUARY 24th
+
+**[Please submit proposals online through our form by JANUARY 24TH, 2022.](https://forms.gle/1JYaNgv9DJgFZVFr5)** All proposals will be reviewed by the Steering Committee and the Annual Program Committee. Acknowledgement of receipt will be made as applications come in. Applicants will be notified with a decision by January 31, 2022. 
 
 ### Proposal Submissions
 The Chesapeake Digital Humanities Consortium (CDHC) invites submissions for its third annual conference: Digital Pandemic Studies: Public Health and Structural Oppressions
@@ -60,7 +62,7 @@ In the early 2020s we as citizens of the world find ourselves grappling with two
 This year’s conference will be held virtually on Zoom in two half-day sessions on March 3rd and 4th (1-4pm). There will be no conference registration fee, but all attendees should register to be provided with access. Registration will close on March 2. All details--submission form, registration, schedule, and access information--will be available online at [https://chesapeakedh.github.io/](https://chesapeakedh.github.io/). Questions? **chesapeakedhconsortium@gmail.com**
 
 We encourage participation from the broader digital humanities communities, including undergraduate and graduate students, early career scholars, college and university faculty, independent scholars, community members, librarians, archivists, and technologists. Within the larger theme of Digital Pandemic Studies: Public Health and Structural Oppressions, we encourage submissions on topics including but not limited to the following:
-- COVID dashboards, politics and design
+
 - Structural oppressions (including race, gender, sexuality, disability) and medicine - health equity analyses, historical case studies, etc 
 - Pandemic and policing - state-mandated vaccination campaigns in past and present, health outcomes for prisoners during COVID, etc 
 - Privacy and information
@@ -73,9 +75,10 @@ We encourage participation from the broader digital humanities communities, incl
 - Metaphors of medicine
 - Access - healthcare, Internet, virtual learning spaces and more
 - Epidemics, historiography, and popular memory
+- COVID dashboards, politics and design
 - The long tail of pandemics - past, present, future
 
-**[Please submit proposals online through our form by December 31, 2021.](https://forms.gle/1JYaNgv9DJgFZVFr5)** All proposals will be reviewed by the Steering Committee and the Annual Program Committee. Acknowledgement of receipt will be made by January 7, 2022. Applicants will be notified with a decision by January 20, 2022. 
+**[Please submit proposals online through our form by JANUARY 24TH, 2022.](https://forms.gle/1JYaNgv9DJgFZVFr5)** All proposals will be reviewed by the Steering Committee and the Annual Program Committee. Acknowledgement of receipt will be made as applications come in. Applicants will be notified with a decision by January 31, 2022. 
 
 ### Proposal Types
 All proposal abstracts should address 1) the research/pedagogical significance of the project, and, where appropriate, 2) the platform or tool used in the project.
