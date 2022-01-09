@@ -10,7 +10,7 @@ permalink: /conference-2022
 
 **Location:** Virtually on Zoom in two half-day sessions
 
-**Registration:** FREE! [Please register here for access to the conference.] (https://forms.gle/nEPCpnBwSTfudFe68)
+**Registration:** FREE! [Please register here for access to the conference.](https://forms.gle/nEPCpnBwSTfudFe68)
 
 [**2022 Conference repository**](https://osf.io/6kcgw/): Coming soon!
 
