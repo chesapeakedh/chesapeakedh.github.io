@@ -14,6 +14,8 @@ permalink: /conference-2022
 
 [**2022 Conference repository**](https://osf.io/6kcgw/): Coming soon!
 
+**Hosted online by [Marymount University](https://marymount.edu/academics/college-of-sciences-and-humanities/school-of-humanities/undergraduate-programs/digital-writing-narrative-design/)**
+
 ### Social Media
 
 The Twitter hashtag for the conference will be [#CDHC2022](https://twitter.com/hashtag/CDHC2022).
