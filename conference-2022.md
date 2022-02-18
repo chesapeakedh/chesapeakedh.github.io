@@ -72,7 +72,7 @@ All times are in Eastern Standard Time.
 | 3:00-3:55 | How I Made This |
 | | Tom Ewing and Students, “Covid-19 in Virginia: A Data in Social Context Collaborative Project” | |
 | | 
-| 4:00-5:00 Happy Hour! | |
+| 4:00-5:00 | Happy Hour! |
 
 
 ## [Conference Repository](https://osf.io/6kcgw/)
