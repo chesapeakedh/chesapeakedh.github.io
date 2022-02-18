@@ -45,8 +45,8 @@ Friday March 4, 4-5pm
 
 All times are in Eastern Standard Time.
 
-| March 3, 2022 |
-|---|
+| March 3, 2022 | 
+|---|---|
 | Time | Session 1 | Session 2 |
 |1:00-1:55 | Welcome and Keynote| |
 | | Kim Gallon (Purdue University)| |
