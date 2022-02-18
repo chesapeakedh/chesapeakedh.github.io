@@ -46,6 +46,7 @@ Friday March 4, 4-5pm
 All times are in Eastern Standard Time.
 
 | March 3, 2022 | | 
+|---|---|
 | 1:00-1:55 Welcome and Keynote|  |
 | Kim Gallon (Purdue University)|  |
 | 2:00-2:55 Text/Narrative | 2:00-2:55 How I Made This |
@@ -56,8 +57,10 @@ All times are in Eastern Standard Time.
 | Chrissy O'Grady, Adrianna Martinez, and Sean Loughran, “Critical Comparative History in the United States: Major Cities, Ineffectual Medicines and Presidencies in 1918 and 2020” | Jacob Vargis, “COVID-19 and Digitization: Impact of Escalation in Cybercrimes Targeting the Elderly” (Marymount University) |
 | | Donna Schaeffer, “Critical Infrastructure in the Context of Culture” (Marymount University) |
 | | Azza AlGhamdi, “Healthcare Cybersecurity Hygiene in the Age of Electronic Medical Records” (Marymount University) |
-| | |
+|---|---|
+
 | March 4, 2022 |
+|---|
 | 1:00-1:55 Race, Gender, Inequity |
 | Robert Nelson, “Redlining and Public Health (Boatwright Library)|
 | Deanna Holroyd, “Right-wing Media Responses to COVID-19 and Blackness” (Ohio State University)|
@@ -72,6 +75,7 @@ All times are in Eastern Standard Time.
 | Tom Ewing and Students, “Covid-19 in Virginia: A Data in Social Context Collaborative Project” |
 | |
 | 4:00-5:00 Happy Hour! |
+|---|
 
 
 
