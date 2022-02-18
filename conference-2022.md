@@ -59,23 +59,23 @@ All times are in Eastern Standard Time.
 | | Azza AlGhamdi, “Healthcare Cybersecurity Hygiene in the Age of Electronic Medical Records” (Marymount University) |
 |---|---|
 
-| March 4, 2022 |
-|---|
-| 1:00-1:55 Race, Gender, Inequity |
-| Robert Nelson, “Redlining and Public Health (Boatwright Library)|
-| Deanna Holroyd, “Right-wing Media Responses to COVID-19 and Blackness” (Ohio State University)|
-| Jacquelyne Thoni Howard, “Distance Learning and Pandemics: A Historical and Gendered Analysis of Using Digital Modalities” (Tulane University)|
-| |
-| 2:00-2:55 Visualizing Pandemics |
-| Tonya Howe, “Covid Data Viz” (Marymount University, Maryland Institute College of Art) |
-| Molly Nebiolo, “Historical Epidemics: Visualizing Boston’s 1721-22 Smallpox Epidemic 300 Years Later” (Northeastern University) |
-| Riya Mohan, “Health Disparities in Havana's Cholera Epidemic” (Duke University) |
-| |
-| 3:00-3:55 How I Made This |
-| Tom Ewing and Students, “Covid-19 in Virginia: A Data in Social Context Collaborative Project” |
-| |
-| 4:00-5:00 Happy Hour! |
-|---|
+| March 4, 2022 | |
+|---|---|
+| 1:00-1:55 Race, Gender, Inequity | |
+| Robert Nelson, “Redlining and Public Health (Boatwright Library)| |
+| Deanna Holroyd, “Right-wing Media Responses to COVID-19 and Blackness” (Ohio State University)| |
+| Jacquelyne Thoni Howard, “Distance Learning and Pandemics: A Historical and Gendered Analysis of Using Digital Modalities” (Tulane University)| |
+| | |
+| 2:00-2:55 Visualizing Pandemics | |
+| Tonya Howe, “Covid Data Viz” (Marymount University, Maryland Institute College of Art) | |
+| Molly Nebiolo, “Historical Epidemics: Visualizing Boston’s 1721-22 Smallpox Epidemic 300 Years Later” (Northeastern University) | |
+| Riya Mohan, “Health Disparities in Havana's Cholera Epidemic” (Duke University) | |
+| | |
+| 3:00-3:55 How I Made This | |
+| Tom Ewing and Students, “Covid-19 in Virginia: A Data in Social Context Collaborative Project” | |
+| | |
+| 4:00-5:00 Happy Hour! | |
+|---|---|
 
 
 
