@@ -45,7 +45,7 @@ Friday March 4, 4-5pm
 
 All times are in Eastern Standard Time.
 
-| March 3, 2022 |  | |
+| Thursday March 3 |  | |
 |---|---|---|
 | Time | Session 1 | Session 2 |
 |1:00-1:55 | Welcome and Keynote| |
@@ -55,36 +55,24 @@ All times are in Eastern Standard Time.
 | | Arina Melkozernova, “Russian Text Analysis: Preliminary Approaches for Assessing the Impact of COVID 19 on the Indigenous Peoples of Russia” (Arizona State University) | |
 | | Sana Asif, “Memory of COVID-19 through memes: A Brief Analysis” (National Institute of Technology, Patna, India) | |
 | 3:00-3:55 | How I Made This| Ethics, Security, Culture |
-|---|---|---|
 | | Chrissy O'Grady, Adrianna Martinez, and Sean Loughran, “Critical Comparative History in the United States: Major Cities, Ineffectual Medicines and Presidencies in 1918 and 2020” | Jacob Vargis, “COVID-19 and Digitization: Impact of Escalation in Cybercrimes Targeting the Elderly” (Marymount University) | 
 | | | Donna Schaeffer, “Critical Infrastructure in the Context of Culture” (Marymount University) |
 | | | Azza AlGhamdi, “Healthcare Cybersecurity Hygiene in the Age of Electronic Medical Records” (Marymount University) |
 
-
-| March 4, 2022 | |
+| Friday March 4 |  |
 |---|---|
-| 1:00-1:55 Race, Gender, Inequity | |
-| Robert Nelson, “Redlining and Public Health (Boatwright Library)| |
-| Deanna Holroyd, “Right-wing Media Responses to COVID-19 and Blackness” (Ohio State University)| |
-| Jacquelyne Thoni Howard, “Distance Learning and Pandemics: A Historical and Gendered Analysis of Using Digital Modalities” (Tulane University)| |
-| | |
-| 2:00-2:55 Visualizing Pandemics | |
-| Tonya Howe, “Covid Data Viz” (Marymount University, Maryland Institute College of Art) | |
-| Molly Nebiolo, “Historical Epidemics: Visualizing Boston’s 1721-22 Smallpox Epidemic 300 Years Later” (Northeastern University) | |
-| Riya Mohan, “Health Disparities in Havana's Cholera Epidemic” (Duke University) | |
-| | |
-| 3:00-3:55 How I Made This | |
-| Tom Ewing and Students, “Covid-19 in Virginia: A Data in Social Context Collaborative Project” | |
-| | |
+| 1:00-1:55 | Race, Gender, Inequity | |
+| | Robert Nelson, “Redlining and Public Health (Boatwright Library)|
+| | Deanna Holroyd, “Right-wing Media Responses to COVID-19 and Blackness” (Ohio State University)| 
+| | Jacquelyne Thoni Howard, “Distance Learning and Pandemics: A Historical and Gendered Analysis of Using Digital Modalities” (Tulane University)| 
+| 2:00-2:55 | Visualizing Pandemics | 
+| | Tonya Howe, “Covid Data Viz” (Marymount University, Maryland Institute College of Art) |
+| | Molly Nebiolo, “Historical Epidemics: Visualizing Boston’s 1721-22 Smallpox Epidemic 300 Years Later” (Northeastern University) | 
+| | Riya Mohan, “Health Disparities in Havana's Cholera Epidemic” (Duke University) |
+| 3:00-3:55 | How I Made This |
+| | Tom Ewing and Students, “Covid-19 in Virginia: A Data in Social Context Collaborative Project” | |
+| | 
 | 4:00-5:00 Happy Hour! | |
-
-
-
-
-
-
-
-
 
 
 ## [Conference Repository](https://osf.io/6kcgw/)
