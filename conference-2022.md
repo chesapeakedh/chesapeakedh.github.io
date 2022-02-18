@@ -47,11 +47,14 @@ All times are in Eastern Standard Time.
 
 | March 3, 2022 | |
 |---|---|
+
 | 1:00-1:55 Welcome and Keynote|  |
 |---|---|
 | Kim Gallon (Purdue University)|  |
+
 | 2:00-2:55 Text/Narrative | 2:00-2:55 How I Made This |
 |---|---|
+
 | Megan Perram, "“Literary Hypertext for Teaching Illness Narratives” (University of Alberta)|Tom Ewing and Collaborators, “Piedmont Tuberculosis Sanatorium Nurse Training Program: Researching the Lives of African-American Women in Segregated Virginia, 1920-1960” (Virginia Tech) |
 | Arina Melkozernova, “Russian Text Analysis: Preliminary Approaches for Assessing the Impact of COVID 19 on the Indigenous Peoples of Russia” (Arizona State University) | |
 | Sana Asif, “Memory of COVID-19 through memes: A Brief Analysis” (National Institute of Technology, Patna, India) | |
