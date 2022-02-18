@@ -48,12 +48,15 @@ All times are in Eastern Standard Time.
 | March 3, 2022 | |
 |---|---|
 | 1:00-1:55 Welcome and Keynote|  |
+|---|---|
 | Kim Gallon (Purdue University)|  |
 | 2:00-2:55 Text/Narrative | 2:00-2:55 How I Made This |
+|---|---|
 | Megan Perram, "“Literary Hypertext for Teaching Illness Narratives” (University of Alberta)|Tom Ewing and Collaborators, “Piedmont Tuberculosis Sanatorium Nurse Training Program: Researching the Lives of African-American Women in Segregated Virginia, 1920-1960” (Virginia Tech) |
 | Arina Melkozernova, “Russian Text Analysis: Preliminary Approaches for Assessing the Impact of COVID 19 on the Indigenous Peoples of Russia” (Arizona State University) | |
 | Sana Asif, “Memory of COVID-19 through memes: A Brief Analysis” (National Institute of Technology, Patna, India) | |
 | 3:00-3:55 How I Made This|3:00-3:55 Ethics, Security, Culture |
+|---|---|
 | Chrissy O'Grady, Adrianna Martinez, and Sean Loughran, “Critical Comparative History in the United States: Major Cities, Ineffectual Medicines and Presidencies in 1918 and 2020” | Jacob Vargis, “COVID-19 and Digitization: Impact of Escalation in Cybercrimes Targeting the Elderly” (Marymount University) |
 | | Donna Schaeffer, “Critical Infrastructure in the Context of Culture” (Marymount University) |
 | | Azza AlGhamdi, “Healthcare Cybersecurity Hygiene in the Age of Electronic Medical Records” (Marymount University) |
