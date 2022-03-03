@@ -47,11 +47,12 @@ All times are in Eastern Standard Time.
 
 | Thursday March 3 |  | |
 |---|---|---|
-| Time | Room 1 | Room 2 |
+| Time | Main Room | |
 |1:00-1:55 | Welcome and Keynote| |
 | | Kim Gallon (Purdue University)| |
 | | introduced by Azza AlGhamdi |
 | | Kim Gallon is Associate Professor of History at Purdue University, where she teaches modern African history and the colonial histories of sub-Saharan African countries. Her research focuses on discourses and representations of sexuality and gender in the early 20th century black press. Gallon is also Founder and Executive Director of COVID Black, a Black health data organization that uses data to tell stories about the Black lived experience to advocate for health equity. |
+| | Room 1 | Room 2 |
 | 2:00-2:55 | Text/Narrative - moderated by Keyanne McCray | How I Made This - moderated by Junjie Luo |
 |  | Megan Perram, "“Literary Hypertext for Teaching Illness Narratives” (University of Alberta) | Tom Ewing and Collaborators, “Piedmont Tuberculosis Sanatorium Nurse Training Program: Researching the Lives of African-American Women in Segregated Virginia, 1920-1960” (Virginia Tech) |
 | | Arina Melkozernova, “Russian Text Analysis: Preliminary Approaches for Assessing the Impact of COVID 19 on the Indigenous Peoples of Russia” (Arizona State University) | |
