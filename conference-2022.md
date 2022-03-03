@@ -47,29 +47,32 @@ All times are in Eastern Standard Time.
 
 | Thursday March 3 |  | |
 |---|---|---|
-| Time | Session 1 | Session 2 |
+| Time | Room 1 | Room 2 |
 |1:00-1:55 | Welcome and Keynote| |
 | | Kim Gallon (Purdue University)| |
-| 2:00-2:55 | Text/Narrative | How I Made This |
+| | introduced by Azza AlGhamdi |
+| | Kim Gallon is Associate Professor of History at Purdue University, where she teaches modern African history and the colonial histories of sub-Saharan African countries. Her research focuses on discourses and representations of sexuality and gender in the early 20th century black press. Gallon is also Founder and Executive Director of COVID Black, a Black health data organization that uses data to tell stories about the Black lived experience to advocate for health equity. |
+| 2:00-2:55 | Text/Narrative - moderated by Keyanne McCray | How I Made This - moderated by Junjie Luo |
 |  | Megan Perram, "“Literary Hypertext for Teaching Illness Narratives” (University of Alberta) | Tom Ewing and Collaborators, “Piedmont Tuberculosis Sanatorium Nurse Training Program: Researching the Lives of African-American Women in Segregated Virginia, 1920-1960” (Virginia Tech) |
 | | Arina Melkozernova, “Russian Text Analysis: Preliminary Approaches for Assessing the Impact of COVID 19 on the Indigenous Peoples of Russia” (Arizona State University) | |
 | | Sana Asif, “Memory of COVID-19 through memes: A Brief Analysis” (National Institute of Technology, Patna, India) | |
-| 3:00-3:55 | How I Made This| Ethics, Security, Culture |
+| 3:00-3:55 | How I Made This - moderated by Keyanne McCray | Ethics, Security, Culture - moderated by Mike Davis |
 | | Chrissy O'Grady, Adrianna Martinez, and Sean Loughran, “Critical Comparative History in the United States: Major Cities, Ineffectual Medicines and Presidencies in 1918 and 2020” | Jacob Vargis, “COVID-19 and Digitization: Impact of Escalation in Cybercrimes Targeting the Elderly” (Marymount University) | 
 | | | Donna Schaeffer, “Critical Infrastructure in the Context of Culture” (Marymount University) |
 | | | Azza AlGhamdi, “Healthcare Cybersecurity Hygiene in the Age of Electronic Medical Records” (Marymount University) |
 
 | Friday March 4 |  |
 |---|---|
-| 1:00-1:55 | Race, Gender, Inequity | |
+| Time | Room 1 | 
+| 1:00-1:55 | Race, Gender, Inequity - moderated by Azza AlGhamdi| 
 | | Robert Nelson, “Redlining and Public Health (Boatwright Library)|
 | | Deanna Holroyd, “Right-wing Media Responses to COVID-19 and Blackness” (Ohio State University)| 
 | | Jacquelyne Thoni Howard, “Distance Learning and Pandemics: A Historical and Gendered Analysis of Using Digital Modalities” (Tulane University)| 
-| 2:00-2:55 | Visualizing Pandemics | 
+| 2:00-2:55 | Visualizing Pandemics - moderated by Sara Woodbury | 
 | | Tonya Howe, “Covid Data Viz” (Marymount University, Maryland Institute College of Art) |
 | | Molly Nebiolo, “Historical Epidemics: Visualizing Boston’s 1721-22 Smallpox Epidemic 300 Years Later” (Northeastern University) | 
 | | Riya Mohan, “Health Disparities in Havana's Cholera Epidemic” (Duke University) |
-| 3:00-3:55 | How I Made This |
+| 3:00-3:55 | How I Made This - moderated by Tonya Howe |
 | | Tom Ewing and Students, “Covid-19 in Virginia: A Data in Social Context Collaborative Project” | |
 | | 
 | 4:00-5:00 | Happy Hour! |
